@@ -56,17 +56,17 @@
 
 # a = 10
 # print(a)
-# # a = 12 
+# # a = 12
 # # a = a + 2
-# a += 2 
+# a += 2
 # print(a)
-# a -= 2 
+# a -= 2
 # print(a)
-# a *= 2 
+# a *= 2
 # print(a)
-# a /= 2 
+# a /= 2
 # print(a)
-# a %= 2 
+# a %= 2
 # print(a)
 
 # ===============================
@@ -74,3 +74,4 @@
 # b = int(input("enter a number = "))
 # c = a + b 
 # print(a,"+",b,"=",c)
+
