@@ -75,3 +75,14 @@
 # c = a + b 
 # print(a,"+",b,"=",c)
 
+# *******************************************
+# **************** Homework *****************
+# *******************************************
+
+# get 2 numbers from user and print sub
+# get 2 numbers from user and print multi
+# get 2 numbers from user and print div
+# get 2 numbers from user and print mod 
+# get rad from user and print area of circle 
+# get value and print square
+# get value and print cube
