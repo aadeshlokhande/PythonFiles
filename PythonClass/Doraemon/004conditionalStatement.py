@@ -64,6 +64,19 @@
 # sec = 40 
 # 1 : 6 : 40
 
+# sec = int(input("enter a seconds = "))
+# hr = int(sec / 3600)
+# rem = int(sec % 3600)
+# min = int(rem / 60 )
+# sec = int(rem % 60)
+
+# print("hr = " , hr)
+# print("min = " , min)
+# print("sec = " , sec)
+
+
+
+
 
 # get amount from user and convert it into minimun notes and coins 
 # enter a amount = 8768
@@ -104,15 +117,11 @@
 # a = a - b # ----> 20
 # print(a,b)
 
-
 # a = 10
 # b = 20 
 # print(a,b)
 # a,b = b,a 
 # print(a,b)
-
-
-
 
 # get age from user and check its age is valid or not
 # enter a age = 100
