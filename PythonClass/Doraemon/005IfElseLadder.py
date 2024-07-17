@@ -47,3 +47,7 @@
 # get percentage from user and print grade
 # get number from user and print number of digit
 
+
+
+.py 
+.pyw
