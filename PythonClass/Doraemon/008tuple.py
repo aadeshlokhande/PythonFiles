@@ -5,12 +5,10 @@
 # print(a)
 # print(type(a))
 
-
 # a = ("aadesh", 3.14, 564)
 
 # a = 23,54,67,98
 # print(a)
-
 
 # a = 10 
 # b = 20 
