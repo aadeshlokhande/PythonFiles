@@ -98,28 +98,28 @@ lst = [["https://www.programiz.com/python-programming/examples/hello-world", "Py
 ["https://www.programiz.com/python-programming/examples/bytes-to-string", "Python Program to Convert Bytes to a String"]]
 
 
-# import requests 
-# from bs4 import BeautifulSoup
-# a = 0
-# for url in lst:
-#     a +=1
-#     try:
-#         r = requests.get(url[0])
-#         soup = BeautifulSoup(r.text, 'lxml')
-#         code = soup.find("pre",class_="python-exec").text
-#         file = open(f"{a} {url[1]}.py","w")
-#         file.write(code)
-#         file.close()
-#         print(a,code)
-#     except:
-#         print("error")
-#     print("******************  ******************")
-    
+import requests 
+from bs4 import BeautifulSoup
 a = 0
-for i in lst:
-    a += 1
-    file = open("homework.txt","a")
-    file.write(f"{a}) {i[1]}\n")
-    file.close()
+for url in lst:
+    a +=1
+    try:
+        r = requests.get(url[0])
+        soup = BeautifulSoup(r.text, 'lxml')
+        code = soup.find("pre",class_="python-exec").text
+        file = open(f"{a} {url[1]}.py","w")
+        file.write(code)
+        file.close()
+        print(a,code)
+    except:
+        print("error")
+    print("******************  ******************")
+    
+# a = 0
+# for i in lst:
+#     a += 1
+#     file = open("homework.txt","a")
+#     file.write(f"{a}) {i[1]}\n")
+#     file.close()
 
     
