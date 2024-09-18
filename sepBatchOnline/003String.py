@@ -51,4 +51,3 @@
 # a = "chin tapak dam dam"
 
 # print(a[::2])
-
