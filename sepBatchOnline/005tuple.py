@@ -30,3 +30,8 @@
 # print(a[2])
 # print(a[2])
 # print(a[2][1][1])
+
+# a = ("sfsdf",12,23.543)
+# # num = a.count(12)
+# num = a.index(12)
+# print(num)
