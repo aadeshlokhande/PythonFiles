@@ -64,11 +64,11 @@
 # ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
 
 # format 
-# name = "aadesh"
-# age = 86
+# name = "parth"
+# age = 34
 
 
-# lol = "my name is {1} and my age is {0} year old".format(name,age)
+# lol = "my name is {} and my age is {} year old".format(name,age)
 # print(lol)
 # lol = f"my name is {name} and my age is {age} year old."
 # print(lol)
