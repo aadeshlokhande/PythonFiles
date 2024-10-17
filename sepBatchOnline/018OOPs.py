@@ -138,7 +138,7 @@
 #     def __init__(self):
 #         print("file is open")
 
-    
+
 #     def readfile(self):
 #         print("reading file")
 
@@ -225,3 +225,5 @@
 # file = open("abc.txt", "a")
 # file.write("hello budy")
 # file.close()
+
+
