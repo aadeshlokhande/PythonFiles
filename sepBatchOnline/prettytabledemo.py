@@ -13,17 +13,25 @@
 
 # ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
 
+# from prettytable import PrettyTable
+
+# tb = PrettyTable(list(range(1,11)))
+
+# for i in range(1,11):
+#     lst = []
+#     for j in range(1,11):
+#         lst.append(i*j)
+#     tb.add_row(lst)
+
+# print(tb)
 
 
+# ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
 
-from prettytable import PrettyTable
 
-tb = PrettyTable(list(range(1,11)))
+# pendding homework 
 
-for i in range(1,11):
-    lst = []
-    for j in range(1,11):
-        lst.append(i*j)
-    tb.add_row(lst)
-print(tb)
+# alpha ptrn
+# ATM 
+# {}{}{}{}
 
