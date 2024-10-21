@@ -32,6 +32,6 @@ ch = input("enter name = ")
 
 for i in range(7):
     for j in ch:
-        print(alpha[j][i], end=" ")
+        print(alpha[j][i].replace("#",j.upper()), end=" ")
     print()
 
