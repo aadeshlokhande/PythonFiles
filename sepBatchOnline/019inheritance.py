@@ -8,7 +8,6 @@
 # hybrid
 
 # ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
-
 # single
 
 # class Animal:
@@ -30,11 +29,11 @@
 
 # ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
 
-
 # class Dad:
 #     def dadQuality(self):
 #         print("paisa kamana")
     
+
 # class Child(Dad):
 #     def childQuality(self):
 #         print("Paisa udana... masti krna")

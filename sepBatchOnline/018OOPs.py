@@ -1,10 +1,10 @@
 # OOPs
 
-# class 
-# object 
+# class
+# object
 # inheritance
 # polymorphism
-# abstraction 
+# abstraction
 # encapsulation
 
 # Car ---> baleno ----> 
