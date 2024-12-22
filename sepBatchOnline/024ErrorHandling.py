@@ -1,22 +1,38 @@
 # Error handling
 
+# compile time
+# print("hkdfs")
 
-# compile time error
-# run time error  
+# run time 
+
 
 
 # try:
 #     x = int(input("enter the value of x = "))
 #     y = int(input("enter the value of y = "))
-#     print(x+y)
+#     print(x + y)
 # except:
-#     print("Only int value allowed")
+#     print("bhai teri ex nhi... x variable hai.... int value enter kro")
 
 
-# print("Happy Diwali")
 
-# a = int(input("enter a number = "))
-# b = int(input("enter a number = "))
-# print(a / b)
 
+# try:
+#     x = int(input("enter the value of x = "))
+#     y = int(input("enter the value of y = "))
+#     print(x / y)
+# except Exception as e:
+#     print(e)
+
+
+
+
+# try:
+#     x = int(input("enter the value of x = "))
+#     y = int(input("enter the value of y = "))
+#     print(x / y)
+# except ValueError:
+#     print("---> this is value error")
+# except ZeroDivisionError:
+#     print("---> division by zero")
 
