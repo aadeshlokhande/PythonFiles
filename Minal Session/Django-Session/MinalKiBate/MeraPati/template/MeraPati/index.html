@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Mera Pati Form</title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css">
+</head>
+<body>
+<div class="container mt-5">
+    <h2 class="text-center mb-4">💑 Mera Pati Ideal Qualities Form</h2>
+
+    <form method="POST">
+        {% csrf_token %}
+
+        <div class="mb-3">
+            <label class="form-label">Name</label>
+            <input type="text" name="name" class="form-control" placeholder="Enter full name" required>
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Gender</label>
+            <select name="gender" class="form-select" required>
+                <option value="M">Male</option>
+                <option value="F">Female</option>
+                <option value="O">Other</option>
+            </select>
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Job</label>
+            <input type="text" name="job" class="form-control" placeholder="Enter profession" required>
+        </div>
+
+        <!-- Boolean YES/NO Fields -->
+        {% for field in 'maritialStatus spiritual vegitarian supportive loyal trustable carring mature childish fit'.split %}
+        <div class="mb-3">
+            <label class="form-label">{{ field|capfirst }}</label>
+            <select name="{{ field }}" class="form-select" required>
+                <option value="1">YES</option>
+                <option value="0">NO</option>
+            </select>
+        </div>
+        {% endfor %}
+
+        <div class="mb-3">
+            <label class="form-label">Salary</label>
+            <input type="number" name="salary" class="form-control" placeholder="Enter expected salary" required>
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Technical Strength</label>
+            <select name="tech_strong" class="form-select" required>
+                <option value="0">Fresher</option>
+                <option value="1">Medium</option>
+                <option value="2">Experienced</option>
+            </select>
+        </div>
+
+        <div class="mb-3">
+            <label class="form-label">Created At</label>
+            <input type="datetime-local" name="create_at" class="form-control" required>
+        </div>
+
+        <div class="text-center">
+            <button type="submit" class="btn btn-primary">Submit Form 💍</button>
+        </div>
+    </form>
+</div>
+</body>
+</html>
