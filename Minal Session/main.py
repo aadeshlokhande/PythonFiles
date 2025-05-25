@@ -178,10 +178,8 @@ while num > 0:
     num = num // 10
     lenOfnum += 1
 
-
 for i in range((lenOfnum // 2)+1):
     a = a1 % 10
     a1 = a1 // 10
 
 print(a)
-
