@@ -6,7 +6,6 @@
 # inbuild function / predifine function
 # user define
 
-
 # print("Hello world")
 
 # def functionName():

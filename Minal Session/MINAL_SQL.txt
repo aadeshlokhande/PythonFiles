@@ -1,0 +1,223 @@
+Beginner Level
+
+1. Introduction to SQL
+* What is SQL?
+* History and Uses of SQL
+* Types of SQL commands (DDL, DML, DCL, TCL, DQL)
+
+2. Basic SQL Syntax
+
+* SQL Statements Structure
+* Case Sensitivity
+* Semicolon and Comments
+
+3. Data Types
+
+* Numeric (INT, FLOAT, etc.)
+int --> 12,34,65,87,-87,-56,-56,0
+float --> 12.54, 23.65, 76.23
+
+* Text (CHAR, VARCHAR, TEXT)
+char ---> single char
+varchar ---> all chars but lenght limit 
+TEXT ---> all chars no limit (take more memory space)
+
+
+* Date & Time (DATE, TIME, DATETIME)
+date ---> 12-09-1997
+time ---> 05:45:12:652345
+dateTime ---> 12-09-1997 05:45:12:652345
+
+
+
+
+4. Database Basics
+
+* Create Database
+
+* Use Database
+
+* Drop Database
+
+
+
+5. Table Operations (DDL)
+
+* `CREATE TABLE`
+* `ALTER TABLE` (ADD, MODIFY, DROP column)
+* `DROP TABLE`
+* `RENAME TABLE`
+
+6. Insert and Retrieve Data
+
+* `INSERT INTO`
+* `SELECT` statement
+* `DISTINCT` keyword
+* Aliases (`AS`)
+
+7. Filtering Records
+
+* `WHERE` clause
+* Comparison operators (=, !=, >, <, etc.)
+* Logical operators (`AND`, `OR`, `NOT`)
+* `BETWEEN`, `IN`, `LIKE`
+
+8. Sorting and Limiting Results
+
+* `ORDER BY`
+* `LIMIT` / `TOP` / `FETCH`
+
+9. Updating and Deleting Data
+
+* `UPDATE`
+* `DELETE`
+
+---
+
+## 🟡 Intermediate Level
+
+10. Functions in SQL
+
+* String Functions (UPPER, LOWER, CONCAT, LENGTH)
+* Numeric Functions (ROUND, CEIL, FLOOR)
+* Date Functions (NOW, DATE\_ADD, DATEDIFF)
+* Aggregate Functions (`COUNT`, `SUM`, `AVG`, `MIN`, `MAX`)
+
+11. Grouping Data
+
+* `GROUP BY`
+* `HAVING` clause
+
+12. Joins
+
+* `INNER JOIN`
+* `LEFT JOIN`
+* `RIGHT JOIN`
+* `FULL JOIN`
+* `SELF JOIN`
+
+13. Set Operations
+
+* `UNION`
+* `UNION ALL`
+* `INTERSECT`
+* `EXCEPT`
+
+14. Subqueries
+
+* In `SELECT`, `FROM`, and `WHERE`
+* Correlated vs Non-correlated Subqueries
+* `EXISTS` and `NOT EXISTS`
+
+15. Views
+
+* `CREATE VIEW`
+* `ALTER VIEW`
+* `DROP VIEW`
+
+16. Indexes
+
+* Purpose and Use
+* `CREATE INDEX`, `UNIQUE INDEX`
+* Dropping Index
+
+17. Constraints
+
+* `PRIMARY KEY`
+* `FOREIGN KEY`
+* `NOT NULL`, `UNIQUE`
+* `CHECK`, `DEFAULT`
+
+---
+
+## 🔴 Advanced Level
+
+18. Transactions and Locks
+
+* `BEGIN`, `COMMIT`, `ROLLBACK`
+* Savepoints
+* Locking mechanisms (Pessimistic, Optimistic)
+
+19. Triggers
+
+* `CREATE TRIGGER`
+* BEFORE and AFTER triggers
+* Row-level vs Statement-level
+
+20. Stored Procedures and Functions
+
+* `CREATE PROCEDURE`
+* `CREATE FUNCTION`
+* Input/Output Parameters
+* Control Structures (IF, CASE, LOOP)
+
+21. Advanced Joins and Queries
+
+* CROSS JOIN
+* Complex Subqueries
+* Recursive Queries (WITH RECURSIVE)
+
+22. Window Functions
+
+* `ROW_NUMBER()`, `RANK()`, `DENSE_RANK()`
+* `LEAD()`, `LAG()`
+* `OVER()` clause
+* `PARTITION BY`
+
+23. Performance Tuning
+
+* Query Optimization Techniques
+* Execution Plans
+* Index Optimization
+* Use of `EXPLAIN`
+
+24. Security and Permissions
+
+* `GRANT`, `REVOKE`
+* Roles and Users
+* SQL Injection Prevention
+
+25. SQL with Programming Languages
+
+* SQL in Python (using `sqlite3`, `SQLAlchemy`)
+* SQL in PHP/Java/Node.js
+* Using ORMs (Object Relational Mapping)
+
+26. NoSQL vs SQL (Conceptual)
+
+* When to use SQL vs NoSQL
+* Differences and Use Cases
+
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+WHERE age<18
+
+instagram / whatsapp
+
+id (AI) name        grades      age     is_delete   created_by      updated_by
+1       minal       A           16      0
+2       aadesh      C           19      0
+3       prem        B           12      1
+4       aashish     D           21      0
+HASHING ---> data store 
+
+
+name varchar(200)
+grades (char)
+age (int)
+height (float)
+bio ---> text
+timestamp ----> date time
+
+
+c 1972 denis richy
+IBM 
+
+
+1988 ANSI
+
+10 / 3 = 3.333333 ----> bell lab
+10 / 3 = 3.333333 -----> sourse forge (mingW)
+10 / 3 = 3.333334 -----> IBM
+x 1000000
