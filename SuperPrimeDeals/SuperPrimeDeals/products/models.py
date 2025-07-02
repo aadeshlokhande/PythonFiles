@@ -12,7 +12,7 @@ class Products(models.Model):
     image = models.ImageField(upload_to='images/')
     price = models.IntegerField()
     whatsInclude = models.TextField(null=True)
-
+    imageInclude = models.ImageField(upload_to='images/')
     forWhom = models.TextField(null=True)
 
     status = models.CharField(max_length=1,choices= Status.choices, default=Status.YES)
