@@ -1,0 +1,92 @@
+understand this 
+
+Course Objectives:
+By the end of this course, learners will be able to:
+. Apply object-oriented and functional programming paradigms in Python.
+o Develop robust, efficient, and scalable Python programs.
+o Work with libraries for data manipulation, concurrency, and system-level operations.
+. Understand advanced Python topics such as decorators, generators, and metaprogramming.
+o Use Python in real-world domains such as networking, databases, testing, and automation.
+
+give me questions like "Coding Questions for Placement: Prepare for Tech Interviews" 
+
+dont reply.... ill send topics one by one with focus areas. and you will provide me 3-3 logical practice questions for the intermediate level. so are you ready?
+
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+topics : Advanced Data structure
+focus area : Deep dive into lists' tuples' sets' dictionafies; list comprehensions; dictionary comprehensions; set operations.
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+topics : OOPs
+focus area : Classes and objects; inheritance; polymorphism; encapsulation; abstract base classes; multiple inheritance
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+topics : Functional Programmig
+focus area : Lambda functions; map' filter; reduce; decorators; generators;iterators; functools module.
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+topics : Error Handling and Exceptions
+focus area : Try-except blocks; custom exceptions; context managers; the with statement; exception hierarchy.
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+topics : Modules and Packages
+focus area : Creating and importing modules; Python Package lndex (pypl); virtual environments; pip; _init_.py.
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+topics : File Handling and l/O
+focus area :Reading and writing files; working with CSV and JSON; file modes;context managers for file operations
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+topics : Regular Expressions
+focus area : Pattern matching; searching and replacing; using the re module; practical applications in data validatidn.
+
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+topics : Multithreading and Multiprocessing
+focus area :Threading mod ule; multiprocessing module; Global lnterpreter Lock (GIL); concurrency vs. parallelism.
+
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+topics : Networking and APls
+focus area :Sockets; HTTP requests with requests module; RESTfulApls; JSON handling; web scraping basics.
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+topics : Testing and Debugging
+focus area :Unit testing with unit test; test-driven development; debugging techniques; using pdb
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+topics : Performance Optimization
+focus area : Profiling code; timeit module; memory management; optimizing algorithms; understanding time complexity.
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+topics : Advanced Topics
+focus area :Metaclasses; descripto rs; context ma nagers; introspection; dynamic code execution with exec and eval.
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+topics : Data Science Libraries
+focus area :NumPy arrays; pandas DataFrames; data manipulation; data visualization with Matplotlib and Seaborn
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+topics : Web Development with Flask
+focus area :Building RESTful APls; routing; templates with Jinja2; handling forms; deploying Flask applications.
+
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+topics : lnterview Practice
+focus area :Solving advanced coding challenges; mock interviews; reviewing common interview questions and solutions
