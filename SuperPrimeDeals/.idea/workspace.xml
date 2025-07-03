@@ -7,23 +7,7 @@
     <list default="true" id="d6104ebb-c3dd-46ad-8f1e-3ddf1628f6f8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SuperPrimeDeals/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/SuperPrimeDeals/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperPrimeDeals/media/images/967631.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperPrimeDeals/media/images/Adesh_Lokhande_Resume.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperPrimeDeals/media/images/Adesh_Lokhande_Resume_03UVDvu.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperPrimeDeals/media/images/Adesh_Lokhande_Resume_2Co3hnQ.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperPrimeDeals/media/images/Adesh_Lokhande_Resume_HKQWOtO.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperPrimeDeals/media/images/Adesh_Lokhande_Resume_MRHkKmZ.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperPrimeDeals/media/images/Adesh_Lokhande_Resume_RH1tvaI.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperPrimeDeals/media/images/Adesh_Lokhande_Resume_aOyxKjB.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperPrimeDeals/media/images/Adesh_Lokhande_Resume_c5YiHLR.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperPrimeDeals/media/images/Adesh_Lokhande_Resume_qwsKJ1w.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperPrimeDeals/media/images/HackerRank.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperPrimeDeals/media/images/Reading_on_the_bus_train_or_transit.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperPrimeDeals/products/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/SuperPrimeDeals/products/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperPrimeDeals/products/migrations/0001_initial.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperPrimeDeals/products/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/SuperPrimeDeals/products/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SuperPrimeDeals/products/templates/products/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/SuperPrimeDeals/products/templates/products/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SuperPrimeDeals/products/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/SuperPrimeDeals/products/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
