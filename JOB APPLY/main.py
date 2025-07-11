@@ -24,7 +24,7 @@ for i in range(30):
             x,y = pg.locateCenterOnScreen("apply01.png", confidence=0.8)
             sleep(1)
             pg.click(x,y)
-            sleep(1)
+            sleep(3)
             while logo:
                 try:
                     sleep(2)
@@ -76,8 +76,7 @@ for i in range(30):
                         if("expected ctc" in que):
                             pg.typewrite("5.0",0.1)
 
-                        if("current company" in que):
-                            pg.typewrite("Path Finder",0.1)
+                
                         
                         if("professional experience" in que):
                             pg.typewrite("2 years",0.1)
@@ -96,11 +95,11 @@ for i in range(30):
                         exp1 = ["scikit-learn","matplotlib","react","aws"]
                         for i in exp2:
                             if("experience" in que and i.lower() in que):
-                                pg.typewrite("2",0.1)
+                                pg.typewrite("2 years",0.1)
                             
                         for i in exp1:
                             if("experience" in que and i.lower() in que):
-                                pg.typewrite("1",0.1)
+                                pg.typewrite("1 year",0.1)
 
                         sleep(1)
                         pg.press("enter")

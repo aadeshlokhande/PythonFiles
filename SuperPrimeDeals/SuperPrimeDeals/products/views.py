@@ -12,3 +12,4 @@ def index(request, product):
     reviewData = Review.objects.filter(product=record)
     reviews = [model_to_dict(r) for r in reviewData]
     return render(request, 'products/index.html', {"data" : productData, "whatsInclude":whatsInclude, "reviews":reviews})
+
