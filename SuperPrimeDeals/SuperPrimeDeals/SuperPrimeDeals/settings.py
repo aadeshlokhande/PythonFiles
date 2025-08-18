@@ -128,3 +128,15 @@ MEDIA_ROOT = BASE_DIR / 'media'
 # https://docs.djangoproject.com/en/5.2/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
+
+# Razor Pay 
+RAZORPAY_KEY_ID = "rzp_test_R5YMXosZnDQVg6"
+RAZORPAY_KEY_SECRET = "Oc7narDWUiQAHE8xRq1aFxuM"
+
+
+
+"""
+aug 2024 - till date working
+
+
+"""
