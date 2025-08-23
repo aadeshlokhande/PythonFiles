@@ -82,6 +82,25 @@
 # print(a.strip())
 
 # ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
+
+
+# name = "manthan"
+# age = 69
+# a = "My name is",name, "and my age is",age,"years."
+# a = "my name is {} and my age is {} years".format(name, age)
+# a = "my name is {1} and my age is {0} years".format(name, age)
+# a = f"My name is {name} and my age is {age} years."
+# print(a)
+
+
+# a = "I am Sorry...\n"
+# b = "Lokhande"
+# c = a + b 
+# c = a * 10
+# print(c)
+
+
+# ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
 # a = "123123pop "
 # utf-8
 # utf-16
@@ -162,10 +181,64 @@
 
 
 # ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
-# dictionary
-# set
+# dictionary ---> {key:value, key:value....}
+# mutable
+
+# itemDict = {"tamater":"2Kg", "aalu":"1Kg", "mirchi":10}
+
+# print(itemDict)
+# print(itemDict["aalu"])
+
+# print(type(itemDict))
+# itemDict["baigan"] = "6Kg"
+# print(itemDict)
+# itemDict["aalu"] = "3Kg"
+# print(itemDict)
+
+# print(dir(itemDict))
+
+# print(itemDict.keys())
+# print(itemDict.values())
+
+# print(itemDict.items())
+
+# print(itemDict.get("aalu"))
+
+# print(dir(itemDict))
+
+# print(itemDict.clear())
+# b = itemDict.copy()
+
+# itemDict.pop("aalu")
+# itemDict.update({"bhindi":"1kg"})
+# print(itemDict)
 
 
+# ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
+
+# ████████████████████ SET ████████████████████
+# set ---> {values, objects}
+# a = {65,87,435,87,98,56,43,24,98}
+# b = {63,84,434,84,98,56,43,24,98}
+# print(a)
+# print(len(a))
+
+# a = [21,32,12,23,54,43,32,243,34,324,23,12,23]
+# # a = list(set(a))
+# # a.sort()
+# # print(a)
+
+# var = a.intersection(b)
+# print(var)
+
+# ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
+# a= 1,2,3
+# b = 10,20,30
+# c = zip(a,b)
+# print(list(c))
+
+# for i in c:
+#     print(i)
 
 # ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
 # def multi10(var):
@@ -176,4 +249,22 @@
 # for i in lst1:
 #     lst2.append(multi10(i))
 # print(lst2)
+
+# gtts ---> google text to speech
+
 # ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
+
+# map(functionName, [values])
+
+
+def square(var):
+    return var*var
+
+lst = [12,45,76,45,34,65]
+
+ob = map(square, lst)
+# print(list(ob))
+
+for i in ob:
+    print(i)
+
