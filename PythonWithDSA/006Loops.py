@@ -5,7 +5,6 @@
 # for iterator in CollectionOfData:
 #     code 
 
-
 # for i in "Hello":
 #     print("char = ",i)
 
@@ -80,7 +79,7 @@
 
 
 # ⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛
-# ⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛ Homework ⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛
+# ⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛ Homework ⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛
 # ⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛
 
 # 1. Print Numbers
@@ -115,10 +114,20 @@
 
 # 11. Count Vowels in a String
 # Take a string and count how many vowels it has using a for loop.
-
+# ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
 # 12. Find Maximum Number
 # Take a list of numbers and use a for loop to find the largest number.
 
+# lst = [43,65,56,45,253,54,76,56,87,34,23]
+# # print(max(lst))
+# MaxValue = lst[0]
+
+# for i in lst:
+#     if i < MaxValue:
+#         MaxValue = i 
+    
+# print(MaxValue)
+# ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
 # 13. Find Minimum Number
 # Take a list of numbers and use a for loop to find the smallest number.
 
@@ -143,8 +152,119 @@
 # 20. Sum of List Elements
 # Take a list of numbers and find the total sum using a for loop.
 
+# ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
 # 21. ASCII Values
 # Print the ASCII value of each character in a string using a for loop.
 
+# str = "Hello mitro"
+
+# for ch in str:
+#     print(ord(ch))
+
+# print(ord("a"))
+# print(chr(97))
+
+# ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
 # 22. Remove Spaces
 # Take a string and remove all spaces using a for loop.
+
+
+# ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
+# ████████████████████ While Loop ████████████████████
+
+# wait for others
+# import ast
+# lst = ast.literal_eval(input("enter a list = "))
+
+# print(lst)
+# print(type(lst))
+
+# ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
+
+# a = []
+# for i in range(10):
+#     var = int(input("enter a number = "))
+#     a.append(var)
+# print(a)
+
+
+# ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
+
+# ████████████████████ WHILE LOOP ████████████████████
+
+# while (condition):
+#     code 
+# ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
+# a = 1
+
+# while a<=10:
+#     print("Hello", end="\n")
+#     a += 1 
+
+# ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
+
+
+# con = 1
+
+# while con == 1:
+#     a = int(input("enter a number = "))
+#     b = int(input("enter a number = "))
+#     c = a + b 
+#     print(f"{a} + {b} = {c}\n")
+#     con = int(input("Do you want to continue 1/0 = "))
+
+# print("thank you")
+
+# ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
+
+# enter a -ve number = 34
+# enter a -ve number = 76
+# enter a -ve number = 43
+# enter a -ve number = 76
+# enter a -ve number = -6
+# thanks for entring -ve number 
+
+
+# num = int(input("enter a -ve number= "))
+# while num > 0:
+#     num = int(input("enter a -ve number= "))
+# print("thanks for entring -ve number ")
+
+
+# ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
+
+# enter a number = 3
+# enter a number = 6
+# enter a number = 2
+# enter a number = 7
+# enter a number = 0
+
+# total sum = 18 
+
+
+# totalSum = 0
+# num = 45
+
+# while num!=0:
+#     num=int(input("enter a number = ")) 
+#     # totalSum = totalSum + num 
+#     totalSum += num 
+
+# print("total Sum = ", totalSum)
+
+# ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
+# a = 7
+# s = 0 
+# while a!=0:
+#     a = int(input("Enter a number = "))
+#     s = s + a 
+# print(s)
+
+
+# ⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛
+# ⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛ Homework ⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛
+# ⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛⊛
+
+
+
+
