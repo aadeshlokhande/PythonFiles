@@ -184,3 +184,28 @@
 # 0,1,1,2,3,5,8,13,21,34
 
 # pointer ---> id 
+
+# ████████████████████████████████████████
+
+
+# global and local variable
+# a = 10 # ---> global 
+# def abc():
+#     print(a)
+# abc()
+
+
+# a = 100
+# def abc():
+#     # global a 
+#     a = 10
+#     print(id(a))
+
+# print(a) #----> 100
+# abc() #----> update by 10
+# print(id(a)) 
+# print(a) #---> 10
+
+
+
+
