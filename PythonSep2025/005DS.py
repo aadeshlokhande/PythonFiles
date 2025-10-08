@@ -59,14 +59,3 @@
 # print(a.center(20,"-"))
 # print(a.index("a"))
 
-
-
-
-
-
-
-# ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
-# tuple 
-# list
-# dictionary
-# set 
