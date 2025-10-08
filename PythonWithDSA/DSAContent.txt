@@ -1,0 +1,25 @@
++---------------------------+------------------------------------------------------------------------------+
+|           Topic           |                                       Subtopics                              |
++---------------------------+------------------------------------------------------------------------------+
+|    Complexity Analysis    |   Time & Space Complexity (Big O Notation), Best, Worst, and Average Cases   |
+|           lists           |  1D & 2D lists, list Operations, Sliding Window & Two Pointer Techniques     |
+|           lists           |                        list Problems & Applications                          |
+|          Strings          | String Operations, Pattern Matching (KMP, Rabin-Karp), Anagrams & Palindrome |
+|          Strings          |                       String Problems & Applications                         |
+|    Searching Algorithms   |                         Linear Search, Binary Search                         |
+|        Linked Lists       |   Singly Linked List, Doubly & Circular Linked List, Fast & Slow Pointers    |
+|     Sorting Algorithms    |                 Bubble Sort, Selection Sort, Insertion Sort                  |
+|     Sorting Algorithms    |                Merge Sort, Quick Sort, Count Sort, Radix Sort                |
+|           Stack           | Stack Implementation, Applications (Valid Parentheses, Next Greater Element) |
+|       Queue & Deque       |         Queue & Deque Implementation, Circular Queue, Priority Queue         |
+|  Recursion & Backtracking |         Basics of Recursion, Backtracking (N-Queens, Rat in a Maze)          |
+|  Recursion & Backtracking |                      Recursion & Backtracking Problems                       |
+|           Trees           |      Binary Tree Basics, Tree Traversals (Inorder, Preorder, Postorder)      |
+| Binary Search Trees (BST) | BST Operations: Insertion, Deletion, Searching, Lowest Common Ancestor (LCA) |
+|           Heaps           |         Min Heap & Max Heap, Heap Sort, Priority Queue Applications          |
+|           Graphs          |          Graph Representation (Adjacency List & Matrix), BFS & DFS           |
+|   Hashing & Hash Tables   |            Hashing Techniques & Collisions, Dictionary in Python             |
+|     Greedy Algorithms     |                      Activity Selection, Huffman Coding                      |
+|  Dynamic Programming (DP) |            Fibonacci (Memoization & Tabulation), Knapsack Problem            |
+|  Final Project & Practice |              Implement a real-world problem using DSA concepts               |
++---------------------------+------------------------------------------------------------------------------+

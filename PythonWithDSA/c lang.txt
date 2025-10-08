@@ -1,0 +1,111 @@
+C Language Topics
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+🔹 Basics of C Programming
+- Introduction to C
+- History of C
+- Features of C
+- Structure of a C Program
+- Compilation and Execution
+- C Tokens
+- Keywords
+- Identifiers
+- Constants, Variables, Data types
+- Input & Output
+- printf() and scanf()
+- Escape sequences
+
+🔹 Operators and Expressions
+- Arithmetic Operators
+- Relational Operators
+- Logical Operators
+- Assignment Operators
+- Increment/Decrement Operators
+- Conditional (Ternary) Operator
+- Bitwise Operators
+- Operator Precedence & Associativity
+
+🔹 Control Statements
+- Decision Making
+- if, if-else, nested if
+- switch-case
+- Loops
+- for, while, do-while
+- Jump Statements
+- break, continue, goto
+
+🔹 Functions in C
+- Function declaration and definition
+- Function call (call by value vs call by reference)
+- Return type and arguments
+- Recursion
+- Storage classes (auto, static, extern, register)
+
+🔹 Arrays
+- One-dimensional arrays
+- Two-dimensional arrays (Matrix)
+- Multi-dimensional arrays
+- Array initialization
+- Array with functions
+
+🔹 Strings
+- Declaration & Initialization
+- String handling functions (strlen, strcpy, strcat, strcmp, etc.)
+- Array of strings
+
+🔹 Pointers
+- Basics of pointers
+- Pointer arithmetic
+- Pointers and arrays
+- Pointers and functions
+- Pointer to pointer
+- Dynamic memory allocation (malloc, calloc, realloc, free)
+
+🔹 Structures and Unions
+- Defining and using structures
+- Array of structures
+- Nested structures
+- Structure with functions
+- Union in C
+- Difference between structure and union
+
+🔹 Enumerations and Typedef
+- enum keyword
+- typedef usage
+
+🔹 File Handling
+- File operations (fopen, fclose, fprintf, fscanf, fgets, fputs)
+- Reading and writing files
+- File handling functions
+
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+200+ pratice question --> pratik 
+100+ hackerrank ---> 
+
+90% ---> 
+1hr --> 2 question 
+top 10% ----> 
+
+3 mini
+1 major 
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+C lang ---> 4000
+C++ ---> 4500
+
+8500 ---> 8000 ---> 50% ---> 4000
+
+3 months ---> 
+
+2 step ---> 4000
+one time -->> 3000 RS ---> 500RS
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+7 to 8 ---> regular
+
+8 to 9
+
+

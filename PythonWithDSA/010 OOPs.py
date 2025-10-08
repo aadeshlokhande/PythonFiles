@@ -42,7 +42,6 @@
 #         print("model =",self.model)
 #         print("price =",self.price)
 
-
 # nano = Car()
 # nano.getData("TATA", "Nano A1", 400000)
 
@@ -54,8 +53,6 @@
 
 # nano.printData()
 # baleno.printData()
-
-
 
 # ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
 # pascal----> PascalCase
