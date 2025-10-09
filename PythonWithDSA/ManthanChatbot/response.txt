@@ -1,0 +1,6 @@
+hello : hello buddy
+how are you : I am fine.
+gm : very good morning
+gn : good night
+ga : good afternoon
+bhai kaisa hai : mai thik hu
