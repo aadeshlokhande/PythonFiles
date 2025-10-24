@@ -4,3 +4,4 @@ gm : very good morning
 gn : good night
 ga : good afternoon
 bhai kaisa hai : mai thik hu
+kaisa hai : thik hu

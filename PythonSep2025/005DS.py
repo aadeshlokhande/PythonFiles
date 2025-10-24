@@ -59,3 +59,17 @@
 # print(a.center(20,"-"))
 # print(a.index("a"))
 
+# ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
+
+# FORMAT FUNCTION
+# name = "khushi"
+# age = 22
+# a = "my name is", name, "and my age is",age,"years old"
+# print(a)
+
+# a = "my name is {} and my age is {} year old.".format(name, age)
+# a = "my name is {1} and my age is {0} year old.".format(name, age)
+# print(a)
+
+# a = f"my name is {name} and my age is {age} year old"
+# print(a)

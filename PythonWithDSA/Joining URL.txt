@@ -1,7 +1,11 @@
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
 Joining url : https://meet.google.com/sur-hhus-dmk
 
+Notes : https://github.com/aadeshlokhande/PythonFiles/tree/main/PythonWithDSA
+
+onlinegdb : https://www.onlinegdb.com/
+
+pydroid3 : https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=en_IN
 
 =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
-practice :
-onlinegdb : https://www.onlinegdb.com/
-pydroid3 : https://play.google.com/store/apps/details?id=ru.iiec.pydroid3&hl=en_IN

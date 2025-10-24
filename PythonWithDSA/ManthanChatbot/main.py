@@ -1,4 +1,4 @@
-file = open("response.txt", "r")
+file = open("ManthanChatbot\\response.txt", "r")
 data = file.read().split("\n")
 file.close()
 
@@ -24,12 +24,9 @@ def chatKro():
             print(dic[prompt])
         else:
             ans = input(f"tell me answer of '{prompt}' = ")
-            file = open("response.txt","a")
+            file = open("ManthanChatbot\\response.txt","a")
             file.write(f"\n{prompt} : {ans}")
             file.close()
             dic[prompt] = ans
 
 chatKro()
-
-        
-
