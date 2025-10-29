@@ -25,5 +25,14 @@
 +---------------------------+------------------------------------------------------------------------------+
 
 threaded binary tree 
+Backtracking 
+Graph
 
 
+
+finance management system
+list class 
+
+
+www.example.com/student
+flask ---> postman 

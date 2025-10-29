@@ -44,8 +44,6 @@
 # greet("khushi")
 # greet("aadesh")
 
-
-
 # def greet(name,age):
 #     print(f"Hello {name}... my age is {age}")
 
@@ -113,5 +111,65 @@
 # mod 
 # sqaure
 # cube 
+
+# ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
+# keyword argument
+
+# def info(name, roll, std):
+#     print(f"My name is {name}")
+#     print(f"My roll number is {roll}")
+#     print(f"My std is {std}")
+
+# # info("khushi", 103, 12)
+# info(std=12, roll=1201, name="Dukhi")
+
+
+# ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
+
+# Default argument
+
+# def add(a=0,b=0):
+#     c = a + b 
+#     print(c)
+# add()
+
+# def greet(name="Buddy"):
+#     print(f"Good Morning {name}")
+# greet()
+# greet("Aman")
+# ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
+
+# *args and **kwargs
+
+# ARGS
+
+# def add(name, *args):
+#     totalSum = 0
+#     for i in args:
+#         totalSum =  totalSum+i
+#     print(totalSum)
+
+
+# add("Aadesh",1,5,4,6,8,6,4,3,2)
+
+
+# ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
+# **KWARGS
+
+# def abc(**kwargs):
+#     for i in kwargs:
+#         print(i, kwargs[i])
+
+# abc(name="Aadesh", roll="5466", std = "12th")
+
+
+
+
+
+
+
+
+
+
 
 
