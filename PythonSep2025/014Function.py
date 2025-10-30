@@ -162,14 +162,3 @@
 
 # abc(name="Aadesh", roll="5466", std = "12th")
 
-
-
-
-
-
-
-
-
-
-
-
