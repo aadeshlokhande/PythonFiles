@@ -74,3 +74,132 @@
 # wrong pin 
 
 
+# num=int(input("enter a number"))
+# file=open("ATM.txt","w")
+# file.write("welcome to state bank of india")
+# match(num):
+# 	case 1:
+# 	    print("----*withdraw*----")
+# 	    pin=int(input("enter a pin"))
+# 	    if(pin==112):
+# 	      amoumt=int(input("enter amount="))
+# 	    else:
+# 	    	print("wrong pin")
+# 	    print("your transaction successfully")
+# 	case 2:
+# 		print("----*check balance*----")
+# 		pin=int(input("enter a pin"))
+# 		if(pin==112):
+# 			print("total balance=1000")
+# 		else:
+# 			print("wrong pin")
+# 	case 3:
+# 		print("----*change pin*----")
+# 		pin=int(input("enter a pin"))
+# 		if(pin==112):
+# 		     newpin=int(input("enter a new pin"))
+# 		     confirmpin=int(input("enter confirm pin"))
+# 		else:
+# 			print("wrong pin ")
+# 		print("pin changed")
+# 		if(pin==1234):
+# 			print("pin match ho rahi h")
+		
+# 	case 4:
+# 		print("----*deposite*----")
+# 		pin=int(input("enter a pin"))
+# 		if(pin==1234):
+# 			amount=int(input("enter your amount"))
+# 			print("your current balance=total balance-amount")
+# 		else:
+# 			print("wrong pin")
+
+
+# ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
+
+
+
+# def readPin():
+#     file = open("pin.txt","r")
+#     data = file.read()
+#     file.close()
+#     return int(data)
+
+# def readBal():
+#     file = open("balance.txt","r")
+#     data = file.read()
+#     file.close()
+#     return int(data)
+
+# def writePin(a):
+#     file = open("pin.txt","w")
+#     file.write(f"{a}")
+#     file.close()
+
+# def writeBal(a):
+#     file = open("balance.txt","w")
+#     file.write(f"{a}")
+#     file.close()
+
+
+
+# print("Welcome to Bank of India")
+
+# print("Press 1: withdraw")
+# print("Press 2: Check balance")
+# print("Press 3: Change pin")
+# print("Press 4: Deposit")
+# choice = int(input("Enter your choice = "))
+
+# match choice:
+#     case 1:
+#         upin = int(input("enter a pin = "))
+#         pin = readPin()
+#         if upin == pin:
+#             amount = int(input("enter a amount = "))
+#             bal = readBal()
+#             if bal >= amount:
+#                 print("Transacstion Done")
+#                 bal = bal - amount
+#                 print("current balance = ",bal)
+#                 writeBal(bal)
+#             else:
+#                 print("Low balance")
+#         else:
+#             print("wrong pin")
+        
+#     case 2:
+#         upin = int(input("enter a pin = "))
+#         pin = readPin()
+#         if upin==pin:
+#             bal = readBal()
+#             print("current balance =",bal)
+#         else:
+#             print("wrong pin")
+        
+#     case 3:
+#         upin = int(input("enter a pin = "))
+#         pin = readPin()
+#         if pin == upin:
+#             npin = int(input("enter a new pin = "))
+#             cpin = int(input("confirm your pin = "))
+#             if(npin==cpin):
+#                 writePin(npin)
+#                 print("pin changed")
+#             else:
+#                 print("pin doesn't match")
+#         else:
+#             print("wrong pin")
+    
+#     case 4:
+#         upin = int(input("enter a pin = "))
+#         pin = readPin()
+#         if pin == upin:
+#             amount = int(input("enter a amount = "))
+#             bal = readBal()
+#             bal = bal + amount
+#             writeBal(bal)
+#         else:
+#             print("wrong pin")
+        
+# print("thank for using our service....")
