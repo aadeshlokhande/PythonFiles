@@ -1,0 +1,22 @@
+basics  --> Intro, token, keywords, escape chars, print function 
+Variable  --> variable, data type, identifier, input function
+Opearator  --> arithmatic, logical, relational, assignment and others
+Slicing  --> accessing value, slice in range, stepping
+String  --> string, how to assign, all methods
+list  --> list, how to assign, all methods
+Tuple  --> tuple, how to assign, all methods
+Dictionary  --> Dictionary, how to assign, all methods
+Set  --> set, how to assign, some methods
+ConditionalStatements  --> if, if else, if else ladder, nested if else, match case
+Loop  --> for loop, while loop, nested for loop 
+Function  --> function, type of function, all types to pass parameters , lambda function, recursion 
+FileHandling  --> (usecase), read, write, append
+Prettytable  --> additional library
+OOPS  --> what is oops, why its important, and all topics
+ClassObject  --> empty class, class and methods, and all  
+Constructor  --> all type of constructor and destructor
+inheritance  --> single, multiple, multilevel, heirarchical, hybrid
+Polymorphism  --> runtime, compiletime polymorphism
+errorHandling  --> all possible ways to handle the error
+Random  --> random library 
+Time  --> time library 
