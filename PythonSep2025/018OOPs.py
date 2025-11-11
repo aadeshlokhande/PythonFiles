@@ -25,24 +25,32 @@
 
 # ████████████████████████████████████████
 
-class Student:
-    def info(self,name1, age1, address1):
-        self.name = name1
-        self.age = age1 
-        self.address = address1
+# class Student:
+#     def info(self,name1, age1, address1):
+#         self.name = name1
+#         self.age = age1 
+#         self.address = address1
 
-    def printData(self):
-        print(self.name)
-        print(self.age)
-        print(self.address)
+#     def printData(self):
+#         print(self.name)
+#         print(self.age)
+#         print(self.address)
 
-khushi = Student()
-khushi.info("Khushi", 20, "Nagpur")
+# khushi = Student()
+# khushi.info("Khushi", 20, "Nagpur")
 
 # print(khushi.age,"years")
 # khushi.printData()
-pratik = Student()
-pratik.info("Pratik", 19, "Goa")
+# pratik = Student()
+# pratik.info("Pratik", 19, "Goa")
 
 
-pratik.printData()
+# pratik.printData()
+
+
+# ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
+# class abc:
+#     def lol():
+#         print("pop lol pop")
+    
+# abc.lol()

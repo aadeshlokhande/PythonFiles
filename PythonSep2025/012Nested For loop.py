@@ -436,6 +436,8 @@
 # 4 4 4 4
 # 5 5 5 5 5
 
+# var = "abcde"
+
 # a 
 # b b 
 # c c c 
@@ -517,4 +519,20 @@
 # for i in range(1,11):
 #     for j in range(1,11):
 #         print(i*j, end="\t")
+#     print()
+
+
+# ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
+
+# a 
+# a b 
+# a b c 
+# a b c d 
+# a b c d e 
+
+# var = "abcde"
+
+# for i in range(1,6):
+#     for j in range(i):
+#         print(var[j],end=" ")
 #     print()

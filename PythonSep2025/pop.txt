@@ -12,11 +12,11 @@ Loop  --> for loop, while loop, nested for loop
 Function  --> function, type of function, all types to pass parameters , lambda function, recursion 
 FileHandling  --> (usecase), read, write, append
 Prettytable  --> additional library
-OOPS  --> what is oops, why its important, and all topics
+OOPS         --> what is oops, why its important, and all topics
 ClassObject  --> empty class, class and methods, and all  
 Constructor  --> all type of constructor and destructor
 inheritance  --> single, multiple, multilevel, heirarchical, hybrid
-Polymorphism  --> runtime, compiletime polymorphism
-errorHandling  --> all possible ways to handle the error
+Polymorphism --> runtime, compiletime polymorphism
+errorHandling --> all possible ways to handle the error
 Random  --> random library 
 Time  --> time library 
