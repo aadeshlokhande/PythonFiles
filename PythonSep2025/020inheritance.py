@@ -3,7 +3,7 @@
 # parent class ---> base class 
 # child class ---> derive class
 
-# ████████████████████  single  ████████████████████
+# ████████████████████ single ████████████████████
 # class Parent:
 #     def ParentQuality(self):
 #         print("paisa kamana")
@@ -24,7 +24,7 @@
 
 
 # ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
-# ████████████████████ multiple ████████████████████
+# ████████████████████ Multiple ████████████████████
 
 # class Daddy:
 #     def DadQuality(self):
@@ -44,8 +44,63 @@
 # Khushi.DadQuality()
 
 
+# ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
+# ████████████████████ Multilevel ████████████████████
+# Grandparent ---> parent ----> child 
+
+# class GrandParent:
+#     def grandParentQuality(self):
+#         print("Story telling")
+
+# class Parent(GrandParent):
+#     def parentQuality(self):
+#         print("Hard Working")
+    
+# class Child(Parent):
+#     def childQuality(self):
+#         print("Enjoy.. fun... chill...")
+
+# champaklal = GrandParent()
+# champaklal.grandParentQuality()
+
+# jethalal = Parent()
+# jethalal.parentQuality()
+# jethalal.grandParentQuality()
+
+# tappu = Child()
+# tappu.childQuality()
+# tappu.parentQuality()
+# tappu.grandParentQuality()
 
 # ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
-# multilevel
-# heirarchical
+# ████████████████████ Heirarchical ████████████████████ 
+
+# class Parent:
+#     def parentQuality(self):
+#         print("Hard working")
+    
+# class Child1(Parent):
+#     def Child1Quality(self):
+#         print("Enjoy.. fun... chill...")
+
+# class Child2(Parent):
+#     def Child2Quality(self):
+#         print("Khana banana")
+    
+# chin1 = Child1()
+# chin2 = Child2()
+
+# chin2.Child2Quality()
+# chin2.parentQuality()
+
+# ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
+
 # hybrid
+
+# class A:
+#     def a(self):
+#         print("class A")
+
+# class B:
+#     def b(self):
+#         print("class B")
