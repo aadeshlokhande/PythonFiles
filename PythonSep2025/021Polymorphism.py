@@ -29,14 +29,7 @@
 #     i.printData()
 
 
-
-
-
-
-
 # ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
-
-
 
 
 # compile time 
@@ -53,7 +46,6 @@
 # operator = input("enter a operator = ")
 # calc(num1, num2,operator)
 
-
 # run time 
 # function overriding
 
@@ -64,6 +56,6 @@
 # class child(parent):
 #     def infoo(self):
 #         print("mere pass mobile hai")
-    
+
 # chikku = child()
 # chikku.info()
