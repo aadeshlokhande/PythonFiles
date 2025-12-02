@@ -24,10 +24,19 @@
 #     table.add_row(ls)
 
 # print(table)
+# ╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩╦╩
 
+# from prettytable import PrettyTable
+# table = PrettyTable(["name","id","salary"])
+# table.add_row(["khushi", 217, 10000])
+# table.add_row(["ritik", 621, 40000])
+# table.add_row(["munna", 21, 6000])
+# table.add_row(["mukesh", 21, 56000])
+# table.add_row(["muskan", 21, 89000])
+# table.add_row(["aarohi", 21, 10000])
+# print(table)
 
 # ████████████████████████████████████████
-
 
 # techinseconds 
 # pywhatkit 
