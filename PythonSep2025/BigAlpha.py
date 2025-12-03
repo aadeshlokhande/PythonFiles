@@ -31,3 +31,16 @@ alpha = {
     "y" : ["##    ##   "," ##  ##    ","  ####     ","   ##      ","   ##      ","   ##      ","   ##      "],
     "z" : ["########   ","     ##    ","    ##     ","   ##      ","  ##       "," ##        ","########   "]
 }
+
+
+# for chars
+# ch = input("enter a char = ")
+# for i in alpha[ch]:
+#     print(i)
+
+# for words
+# word = input("enter a name = ")   # abc
+# for i in range(7):
+#     for j in word:
+#         print(alpha[j][i], end="")
+#     print()
