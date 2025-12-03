@@ -1,0 +1,2 @@
+
+print(random.choice(a))
