@@ -1,0 +1,217 @@
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+Easy Level
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+1. Write a program to print "Hello Python".
+2. Write a program to add two numbers input by user.
+3. Write a program to subtract two numbers.
+4. Write a program to multiply two numbers.
+5. Write a program to divide two numbers.
+6. Write a program to calculate area of a rectangle.
+7. Write a program to calculate area of a circle.
+8. Write a program to calculate simple interest.
+9. Write a program to swap two numbers using a third variable.
+10. Write a program to swap two numbers without using a third variable.
+11. Write a program to check if a number is even or odd.
+12. Write a program to check if a number is positive, negative, or zero.
+13. Write a program to find the largest among two numbers.
+14. Write a program to find the largest among three numbers.
+15. Write a program to calculate the square of a number.
+16. Write a program to calculate cube of a number.
+17. Write a program to read a name from user and print a greeting.
+18. Write a program to find the sum of first n natural numbers.
+19. Write a program to print numbers from 1 to n.
+20. Write a program to print numbers from n to 1.
+21. Write a program to print even numbers from 1 to 100.
+22. Write a program to print odd numbers from 1 to 100.
+23. Write a program to print table of any number.
+24. Write a program to find factorial of a number.
+25. Write a program to check if a number is prime or not.
+26. Write a program to print all prime numbers between 1 and 100.
+27. Write a program to check if a year is a leap year.
+28. Write a program to reverse a number.
+29. Write a program to count digits in a number.
+30. Write a program to find sum of digits of a number.
+31. Write a program to find product of digits of a number.
+32. Write a program to check if a number is palindrome.
+33. Write a program to check if a number is Armstrong number.
+34. Write a program to print Fibonacci series up to n terms.
+35. Write a program to check if a string is palindrome.
+36. Write a program to count vowels in a string.
+37. Write a program to count consonants in a string.
+38. Write a program to reverse a string.
+39. Write a program to convert string to uppercase.
+40. Write a program to convert string to lowercase.
+41. Write a program to remove spaces from a string.
+42. Write a program to find length of a string without using len().
+43. Write a program to concatenate two strings.
+44. Write a program to compare two strings.
+45. Write a program to replace a character in a string.
+46. Write a program to check character frequency in a string.
+47. Write a program to print ASCII value of a character.
+48. Write a program to convert ASCII code to character.
+49. Write a program to print vowels in a string.
+50. Write a program to find smallest element in a list.
+51. Write a program to find largest element in a list.
+52. Write a program to calculate sum of list elements.
+53. Write a program to calculate product of list elements.
+54. Write a program to count even numbers in a list.
+55. Write a program to count odd numbers in a list.
+56. Write a program to find second largest number in a list.
+57. Write a program to find second smallest number in a list.
+58. Write a program to remove duplicates from a list.
+59. Write a program to find frequency of elements in a list.
+60. Write a program to reverse a list.
+61. Write a program to sort a list without sort() function.
+62. Write a program to search an element in a list.
+63. Write a program to print only positive numbers from a list.
+64. Write a program to print only negative numbers from a list.
+65. Write a program to separate even and odd numbers from a list.
+66. Write a program to merge two lists.
+67. Write a program to remove an element from list by value.
+68. Write a program to remove element by index.
+69. Write a program to check if element exists in list.
+70. Write a program to find average of numbers in a list.
+71. Write a program to print first n elements of a list.
+72. Write a program to print last n elements of a list.
+73. Write a program to store and print student details using variables.
+74. Write a program using if else ladder for grading system.
+75. Write a program to display menu based calculator.
+76. Write a program to convert temperature Celsius to Fahrenheit.
+77. Write a program to convert Fahrenheit to Celsius.
+78. Write a program to calculate BMI.
+79. Write a program to check eligibility for voting.
+80. Write a program to check eligibility for driving license.
+81. Write a program to find roots of quadratic equation.
+82. Write a program to count words in a sentence.
+83. Write a program to find longest word in a sentence.
+84. Write a program to find shortest word.
+85. Write a program to check substring in a string.
+86. Write a program to remove vowels from a string.
+87. Write a program to remove consonants from a string.
+88. Write a program to remove digits from a string.
+89. Write a program to remove special characters from a string.
+90. Write a program to convert string into list of characters.
+91. Write a program to join list of characters into string.
+92. Write a program to extract numbers from string.
+93. Write a program to print ASCII table from 1 to 127.
+94. Write a program to create a dictionary of 5 students.
+95. Write a program to add value in dictionary.
+96. Write a program to delete key from dictionary.
+97. Write a program to update value in dictionary.
+98. Write a program to check if key exists in dictionary.
+99. Write a program to print dictionary keys.
+100. Write a program to print dictionary values.
+101. Write a program to swap keys and values in dictionary.
+102. Write a program to convert two lists to dictionary.
+103. Write a program to count character frequency using dictionary.
+104. Write a program to print month number name using dictionary.
+105. Write a program using while loop to print stars pattern.
+106. Write a program to print left triangle star pattern.
+107. Write a program to print right triangle star pattern.
+108. Write a program to print pyramid star pattern.
+109. Write a program to print inverted pyramid.
+110. Write a program to print diamond star pattern.
+111. Write a program to print number pyramid.
+112. Write a program to print multiplication table pattern.
+113. Write a program to check whether two strings are anagram.
+114. Write a program to calculate power without using pow().
+115. Write a program to convert decimal to binary.
+116. Write a program to convert binary to decimal.
+117. Write a program to find HCF of two numbers.
+118. Write a program to find LCM of two numbers.
+119. Write a program to find GCD using loop.
+120. Write a program to find sum of harmonic series.
+121. Write a program to print all factors of a number.
+122. Write a program to check abundant number.
+123. Write a program to check perfect number.
+124. Write a program to check strong number.
+125. Write a program to print ASCII triangle pattern.
+126. Write a program to convert integer to Roman.
+127. Write a program to convert Roman to integer.
+128. Write a program to replace duplicate characters in a string.
+129. Write a program to change case of each letter.
+130. Write a program to print square number patterns.
+131. Write a program to print alphabetical pattern.
+132. Write a program to remove nth character from string.
+133. Write a program to insert character at nth position.
+134. Write a program to split string without split().
+135. Write a program to find index of a character.
+136. Write a program to check numeric string without isdigit().
+137. Write a program to swap characters in string.
+138. Write a program to print alternate characters in string.
+139. Write a program to print unique characters.
+140. Write a program to print duplicate characters.
+141. Write a program to check pangram.
+142. Write a program to generate OTP of 4 digits.
+143. Write a program to generate random password manually without library.
+144. Write a program to find sum of series 1+1/2+1/3+...n.
+145. Write a program to print Armstrong numbers between 1 to 1000.
+146. Write a program to count alphabets, digits, symbols in string.
+147. Write a program to convert list of numbers into a single number.
+148. Write a program to find median of list without sorting function.
+149. Write a program to rotate list by n positions.
+150. Write a program to implement basic calculator using functions.
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+Mediam Level 
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+1. Write a program to check if a number can be written as sum of two prime numbers.
+2. Write a program to find all pairs in a list whose sum is equal to a given number (without using any library).
+3. Write a program to check if digits of a number are in increasing order or not.
+4. Write a program to check if digits of a number are in decreasing order or not.
+5. Write a program to check if a number has all unique digits or not.
+6. Write a program to check if two numbers are “digit anagrams” (same digits in any order).
+7. Write a program to find the next palindrome number greater than a given number.
+8. Write a program to find the smallest number greater than n which has same number of set bits (1s in binary) as n (without using any library).
+9. Write a program to count how many numbers between 1 and n are divisible by 3 or 5 but not both.
+10. Write a program to print all “strong numbers” between 1 and 1000.
+11. Write a program to find the sum of all prime digits in a number.
+12. Write a program to find the difference between sum of even digits and sum of odd digits of a number.
+13. Write a program to check if a number is a “Harshad number” (divisible by sum of its digits).
+14. Write a program to check if a number is a “Smith number” (composite number where sum of digits equals sum of digits of its prime factors).
+15. Write a program to find the smallest factor of a number greater than 1.
+16. Write a program to find the largest prime factor of a number.
+17. Write a program to check if a number can be expressed as a^b (a>1, b>1) for some integers a and b.
+18. Write a program to find all 3-digit Armstrong numbers whose digits are in strictly increasing order.
+19. Write a program to find all 4-digit numbers where sum of first two digits equals sum of last two digits.
+20. Write a program to check if a number is “automorphic” (n² ends with n).
+21. Write a program to find all automorphic numbers between 1 and 10000.
+22. Write a program to repeatedly sum digits of a number until result is a single digit (digital root).
+23. Write a program to perform manual integer division (quotient and remainder) using only + and − operators (no /, //, %).
+24. Write a program to simulate multiplication using repeated addition, including negative numbers.
+25. Write a program to find LCM of two numbers without using formula (only loops).
+26. Write a program to simplify a fraction (p/q) to lowest form using only loops.
+27. Write a program to check if three sides can form a valid triangle and then classify it as equilateral, isosceles, or scalene.
+28. Write a program to input time in 24-hour format (hh:mm) and convert it to 12-hour format with AM/PM.
+29. Write a program to add two times (hh:mm:ss) and display the result in proper format.
+30. Write a program to calculate the day number in a year (1–365 or 366) for a given date (dd, mm, yyyy) without using any library.
+31. Write a program to count how many Sundays fall on the first day of month between two given years (logic only, no libraries).
+32. Write a program to validate a given date (dd, mm, yyyy) considering leap years also.
+33. Write a program to rotate digits of a number to the left by k positions.
+34. Write a program to rotate digits of a number to the right by k positions.
+35. Write a program to check if two strings are rotations of each other.
+36. Write a program to compress a string by replacing groups of same characters with character + count (e.g. "aaabbc" → "a3b2c1") without using any library.
+37. Write a program to decompress the above format back to original string.
+38. Write a program to remove all repeated consecutive characters from a string (e.g. "aaabbcca" → "abca").
+39. Write a program to find the first non-repeating character in a string.
+40. Write a program to find the first repeating character in a string.
+41. Write a program to check if a string is “isogram” (no repeating letters).
+42. Write a program to check if two strings are “meta strings” (can be made equal by swapping exactly one pair of characters).
+43. Write a program to find the longest word in a sentence without using split().
+44. Write a program to reverse the order of words in a sentence without using split().
+45. Write a program to check if a sentence is a palindrome ignoring spaces, case, and punctuation (only alphabets).
+46. Write a program to count how many words start with vowel and how many with consonant in a sentence.
+47. Write a program to check if one string can be formed by rearranging and repeating characters of another string.
+48. Write a program to implement a simple text menu system (add student, delete student, show all) using only lists and loops (no OOP, no files).
+49. Write a program to simulate a simple login system: 3 attempts allowed, lock after 3 wrong passwords.
+50. Write a program to validate a password based on rules: minimum length, at least one uppercase, one lowercase, one digit, one special character (without any library functions like isupper, islower, isdigit).
+51. Write a program to simulate a basic ATM: check balance, deposit, withdraw (no real money, just variables and loops).
+52. Write a program to simulate a simple calculator which keeps taking operations until user chooses exit.
+53. Write a program to simulate a “guess the number” game where computer thinks a fixed number and user tries to guess, with hints “too high” or “too low” (no random, just fixed secret).
+54. Write a program that asks user to enter numbers until they enter 0, then prints max, min, sum, and average.
+55. Write a program to check if a given 3x3 matrix (entered as 9 inputs into a list) is a magic square or not (all rows, cols, diagonals same sum).
+56. Write a program to check if three points (x1, y1), (x2, y2), (x3, y3) are collinear or not (using area formula).
+57. Write a program to calculate distance between two points in 2D without using library, and then classify if it is more than, less than, or equal to given threshold.
+58. Write a program to count how many numbers between 1 and 10000 have exactly 3 divisors.
+59. Write a program to find all “twin primes” between 1 and 1000 (pairs of primes with difference 2).
+60. Write a program to generate all 3-digit numbers using digits 1 to 9 such that each digit appears at most once and sum of digits is divisible by 3.

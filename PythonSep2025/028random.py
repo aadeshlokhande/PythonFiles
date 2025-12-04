@@ -63,3 +63,13 @@
 # otp generator
 
 
+import random
+
+a = [1, 2, 3, 4, 5, 6, 7, 8, 9, "a", "b", "c", "d", "@", "&", "#"]
+password = ""
+length = int(input("enter a length = "))
+
+for i in range(length):
+    ch = random.choice(a)
+    password += str(ch)
+print(password)
