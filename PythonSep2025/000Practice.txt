@@ -216,14 +216,11 @@ Mediam Level
 59. Write a program to find all “twin primes” between 1 and 1000 (pairs of primes with difference 2).
 60. Write a program to generate all 3-digit numbers using digits 1 to 9 such that each digit appears at most once and sum of digits is divisible by 3.
 
-
-
 =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
 pattern Problems
 =<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
 
 Pattern 1: Square Star Pattern
-
 
 *****
 *****
@@ -234,7 +231,6 @@ Pattern 1: Square Star Pattern
 
 Pattern 2: Hollow Square
 
-
 *****
 *   *
 *   *
@@ -243,7 +239,6 @@ Pattern 2: Hollow Square
 
 
 Pattern 3: Right Triangle
-
 
 *
 **
@@ -254,7 +249,6 @@ Pattern 3: Right Triangle
 
 Pattern 4: Inverted Right Triangle
 
-
 *****
 ****
 ***
@@ -263,7 +257,6 @@ Pattern 4: Inverted Right Triangle
 
 
 Pattern 5: Pyramid
-
 
     *
    ***
