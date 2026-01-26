@@ -1,0 +1,167 @@
+# 🟢 EASY LEVEL — 50 PROGRAMMING QUESTIONS
+
+## Python Fundamentals (1–30)
+1. Write a program to print `"Hello, World!"`.
+2. Write a program to print your name, age, and city.
+3. Take two numbers as input and print their sum.
+4. Take two numbers and print addition, subtraction, multiplication, and division.
+5. Write a program to check whether a number is even or odd.
+6. Write a program to check whether a number is positive, negative, or zero.
+7. Write a program to find the maximum of two numbers.
+8. Write a program to find the maximum of three numbers.
+9. Write a program to swap two numbers using a temporary variable.
+10. Write a program to swap two numbers without using a temporary variable.
+11. Write a program to check whether a number is divisible by 5.
+12. Write a program to print numbers from 1 to 10 using a loop.
+13. Write a program to print even numbers from 1 to 50.
+14. Write a program to calculate the sum of first `n` natural numbers.
+15. Write a program to calculate factorial of a number using a loop.
+16. Write a program to print the multiplication table of a number.
+17. Write a program to count digits in a number.
+18. Write a program to reverse a number.
+19. Write a program to check whether a number is a palindrome.
+20. Write a program to calculate the sum of digits of a number.
+21. Write a program to convert Celsius to Fahrenheit.
+22. Write a program to check whether a year is a leap year.
+23. Write a program to print all characters of a string.
+24. Write a program to count vowels in a string.
+25. Write a program to reverse a string.
+26. Write a program to check whether a string is a palindrome.
+27. Write a program to find length of a string without using `len()`.
+28. Write a program to convert string to uppercase.
+29. Write a program to find ASCII value of a character.
+30. Write a program to remove spaces from a string.
+
+## Basic DSA (31–50)
+31. Write a program to create a list and print its elements.
+32. Write a program to find the sum of elements in a list.
+33. Write a program to find the maximum element in a list.
+34. Write a program to find the minimum element in a list.
+35. Write a program to count elements in a list.
+36. Write a program to search an element in a list.
+37. Write a program to count occurrences of an element in a list.
+38. Write a program to reverse a list.
+39. Write a program to sort a list in ascending order.
+40. Write a program to sort a list in descending order.
+41. Write a program to remove duplicates from a list.
+42. Write a program to find common elements between two lists.
+43. Write a program to merge two lists.
+44. Write a program to create a dictionary and print all keys.
+45. Write a program to print all values of a dictionary.
+46. Write a program to count word frequency in a string.
+47. Write a program to create a tuple and access elements.
+48. Write a program to convert list to tuple.
+49. Write a program to convert tuple to list.
+50. Write a program to find length of a list without using `len()`.
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>==<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+# 🟡 MEDIUM LEVEL — 50 PROGRAMMING QUESTIONS
+
+## Python Logic + Functions (51–80)
+51. Write a program to check whether a number is prime.
+52. Write a program to print all prime numbers between 1 and 100.
+53. Write a program to find factorial using recursion.
+54. Write a program to calculate Fibonacci series using loop.
+55. Write a program to calculate Fibonacci using recursion.
+56. Write a program to check Armstrong number.
+57. Write a program to find GCD of two numbers.
+58. Write a program to find LCM of two numbers.
+59. Write a program to count words in a sentence.
+60. Write a program to remove duplicate characters from a string.
+61. Write a program to find first non-repeating character.
+62. Write a program to replace vowels with `*`.
+63. Write a program to check whether two strings are anagrams.
+64. Write a program to find frequency of each character in a string.
+65. Write a program to print pattern (right triangle).
+66. Write a program to print pyramid pattern.
+67. Write a program to check perfect number.
+68. Write a program to generate random password.
+69. Write a program to find second largest number in a list.
+70. Write a program to find second smallest number in a list.
+71. Write a program to rotate list elements by `k` positions.
+72. Write a program to split list into even and odd numbers.
+73. Write a program to flatten a nested list.
+74. Write a program to check if list is sorted.
+75. Write a program to remove empty strings from list.
+76. Write a program to find intersection of two lists.
+77. Write a program to find union of two lists.
+78. Write a program to find missing number in a list of 1 to n.
+79. Write a program to move all zeros to the end of a list.
+80. Write a program to count pairs with given sum.
+
+## Intermediate DSA (81–100)
+81. Implement linear search algorithm.
+82. Implement binary search algorithm.
+83. Implement bubble sort.
+84. Implement selection sort.
+85. Implement insertion sort.
+86. Write a program to reverse array without using extra space.
+87. Write a program to find duplicate elements in array.
+88. Write a program to find majority element in a list.
+89. Write a program to find maximum subarray sum.
+90. Write a program to check balanced parentheses.
+91. Implement stack using list.
+92. Implement queue using list.
+93. Implement stack using collections module.
+94. Implement queue using collections module.
+95. Write a program to reverse string using stack.
+96. Write a program to evaluate postfix expression.
+97. Write a program to find next greater element.
+98. Write a program to find leader elements in an array.
+99. Write a program to find longest word in a sentence.
+100. Write a program to check rotation of string.
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>==<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+# 🔴 HARD LEVEL — 50 PROGRAMMING QUESTIONS
+
+## Advanced Python + DSA (101–150)
+101. Implement merge sort.
+102. Implement quick sort.
+103. Implement heap sort.
+104. Write a program to find kth largest element.
+105. Write a program to find kth smallest element.
+106. Implement binary search recursively.
+107. Implement linked list with insert and delete.
+108. Reverse a linked list.
+109. Detect loop in linked list.
+110. Find middle of linked list.
+111. Implement stack using linked list.
+112. Implement queue using linked list.
+113. Write a program to remove loop in linked list.
+114. Implement circular queue.
+115. Implement deque.
+116. Write a program to convert infix to postfix.
+117. Write a program to convert infix to prefix.
+118. Evaluate infix expression.
+119. Implement binary tree insertion.
+120. Perform inorder traversal of binary tree.
+121. Perform preorder traversal of binary tree.
+122. Perform postorder traversal of binary tree.
+123. Find height of binary tree.
+124. Count nodes in binary tree.
+125. Check if binary tree is balanced.
+126. Implement BFS (level order traversal).
+127. Implement DFS.
+128. Implement graph using adjacency list.
+129. Implement graph using adjacency matrix.
+130. Detect cycle in graph.
+131. Find shortest path using BFS.
+132. Implement Dijkstra’s algorithm.
+133. Implement Prim’s algorithm.
+134. Implement Kruskal’s algorithm.
+135. Find longest common prefix.
+136. Find longest substring without repeating characters.
+137. Implement sliding window maximum.
+138. Find minimum window substring.
+139. Implement LRU cache.
+140. Solve Two Sum problem.
+141. Solve Three Sum problem.
+142. Solve Kadane’s algorithm.
+143. Find longest palindromic substring.
+144. Implement dynamic programming for Fibonacci.
+145. Implement 0/1 Knapsack.
+146. Solve coin change problem.
+147. Solve subset sum problem.
+148. Implement matrix multiplication.
+149. Rotate matrix by 90 degrees.
+150. Implement Sudoku solver.

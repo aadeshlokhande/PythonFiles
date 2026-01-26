@@ -1,1 +1,0 @@
-lst.append(i*j)

@@ -19,20 +19,26 @@
 |           Heaps           |         Min Heap & Max Heap, Heap Sort, Priority Queue Applications          |
 |           Graphs          |          Graph Representation (Adjacency List & Matrix), BFS & DFS           |
 |   Hashing & Hash Tables   |            Hashing Techniques & Collisions, Dictionary in Python             |
-|     Greedy Algorithms     |                      Activity Selection, Huffman Coding                      |
-|  Dynamic Programming (DP) |            Fibonacci (Memoization & Tabulation), Knapsack Problem            |
+|     Greedy Algorithms     |                      Greedy Algorithms, Huffman Coding                       |
+|  Dynamic Programming (DP) |                          Fibonacci, Knapsack Problem                         |
 |  Final Project & Practice |              Implement a real-world problem using DSA concepts               |
 +---------------------------+------------------------------------------------------------------------------+
 
-threaded binary tree 
-Backtracking 
-Graph
 
+sqlite3 ---> 
 
-
-finance management system
+Library Management System : Book add, issue, return, search using dictionary or file.
+finance management system : 
 list class 
 
-
 www.example.com/student
-flask ---> postman 
+flask ---> postman
+
+
+
+example.com/student/add 
+example.com/student/edit/id=3
+
+
+
+
