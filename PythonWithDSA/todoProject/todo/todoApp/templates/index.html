@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Todo Application</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f6f8;
+            padding: 30px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: auto;
+            background: #ffffff;
+            padding: 25px;
+            border-radius: 8px;
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        form {
+            margin-bottom: 30px;
+        }
+
+        input, select, textarea, button {
+            width: 100%;
+            padding: 8px;
+            margin-top: 8px;
+            margin-bottom: 15px;
+        }
+
+        button {
+            background-color: #007bff;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        table th, table td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: center;
+        }
+
+        table th {
+            background-color: #f1f1f1;
+        }
+
+        .high { color: red; }
+        .medium { color: orange; }
+        .low { color: green; }
+
+        .pending { color: red; }
+        .completed { color: green; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Todo App</h1>
+
+    <!-- Add Todo Form -->
+    <form method="POST">
+        {% csrf_token %}
+
+        <label>Title</label>
+        <input type="text" name="title" required>
+
+        <label>Priority</label>
+        <select name="priority">
+            <option value="H">High</option>
+            <option value="M" selected>Medium</option>
+            <option value="L">Low</option>
+        </select>
+
+        <label>Notes</label>
+        <textarea name="notes" rows="3"></textarea>
+
+        <label>Status</label>
+        <select name="status">
+            <option value="P" selected>Pending</option>
+            <option value="C">Completed</option>
+        </select>
+
+        <label>Due Date</label>
+        <input type="date" name="dueDate">
+
+        <button type="submit">Add Todo</button>
+    </form>
+
+    <!-- Todo List -->
+    <table>
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Priority</th>
+                <th>Notes</th>
+                <th>Status</th>
+                <th>Due Date</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for todo in todos %}
+            <tr>
+                <td>{{ todo.title }}</td>
+
+                <td class="
+                    {% if todo.priority == 'H' %}high
+                    {% elif todo.priority == 'M' %}medium
+                    {% else %}low
+                    {% endif %}
+                ">
+                    {{ todo.get_priority_display }}
+                </td>
+
+                <td>{{ todo.notes }}</td>
+
+                <td class="{% if todo.status == 'P' %}pending{% else %}completed{% endif %}">
+                    <a href="/statusupdate/{{todo.id}}">{{ todo.get_status_display }}</a>
+                </td>
+
+                <td>{{ todo.duedate|date:"d M Y" }}</td>
+
+                <td>
+                    <a href="/delete/{{todo.id}}">Delete</a>
+                </td>
+            </tr>
+        {% empty %}
+            <tr>
+                <td colspan="7">No todos available</td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+</div>
+
+</body>
+</html>
