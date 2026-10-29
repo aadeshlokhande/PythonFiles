@@ -1,0 +1,124 @@
+Discuss the concept of DBMS and list its advantages over the traditional file system approach.
+Differentiate primary key, foreign key and candidate key with suitable examples from relational databases.
+State First Normal Form (1NF) from the concept of Normalisation.
+Illustrate the architecture of DBMS and explain the role of each component in database processing.
+Demonstrate the use of GROUP BY and HAVING clauses with suitable SQL query examples.
+Discuss Boyce-Codd Normal Form.
+Compare various data models used in DBMS on the basis of structure, usage and advantages. 
+Differentiate different types of joins with suitable examples.
+Differentiate procedural and non-procedural query languages.
+Interpret insertion, deletion and update anomalies with suitable examples from database tables.
+Examine conceptual, representational and physical data models.
+Interpret Second Normal Form (2NF) with example.
+Diagram the ER model using suitable symbols and explain entities, attributes and relationships with examples.
+Classify different types of database schemas. 
+Illustrate SQL set operators with suitable examples. 
+Interpret the concept of data abstraction and explain its different levels in DBMS.
+Identify integrity constraints in DBMS.
+Discuss Fourth Normal Form (4NF).
+Differentiate strong entity and weak entity set.
+Contrast 2NF and 3NF in the concept of Normalisation.
+Analyze the three-level architecture of DBMS with a neat diagram and suitable explanation.
+Diagram ER model with symbols and examples.
+Demonstrate selection, projection and Cartesian product operations using relational algebra examples.
+Explain different levels of schema in DBMS. 
+Describe the concept of keys in DBMS.
+Illustrate SQL set operators with suitable examples. 
+Examine different types of joins in detail with suitable SQL query examples.
+Describe the concepts of Triggers. 
+Explain schema and instance in DBMS.
+Classify joins and list its types.
+Recall Second Normal Form (2NF).
+Discuss the importance of ER design issues.
+Explain structure of relational database.
+Interpret the concept of non-loss decomposition with a suitable normalization example.
+Analyze ER model with examples.
+Examine conceptual, representational and physical data models.
+Contrast hierarchical model and network model.
+Interpret Third Normal Form (3NF) with a suitable example and explain removal of transitive dependency.
+Explain the concept of triggers.
+Compare physical and logical schema in DBMS.
+Classify the types of SQL set operators.
+Describe the concept of Keys in DBMS.
+Illustrate different database languages such as DDL, DML, DCL and TCL with suitable examples.
+Name different types of database users in DBMS
+Recall aggregate functions in SQL.
+State BCNF from the concept of Normalisation.
+Discuss different set operations in SQL.
+Explain partial dependency with example.
+Examine different database languages with examples.
+Differentiate data abstraction and data independence in detail with suitable examples.
+Classify all types of keys in DBMS with examples.
+Interpret Third Normal Form (3NF) with a suitable example and explain removal of transitive dependency.
+Describe the concepts of Triggers.
+Illustrate SQL set operators with suitable examples.
+Explain procedural and non-procedural query languages..
+Compare physical and logical schema.
+Examine conceptual, representational and physical data models.
+
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+Database Fundamentals
+1. Discuss the concept of DBMS and list its advantages over the traditional file system approach.
+2. Interpret the concept of data abstraction and explain its different levels in DBMS.
+3. Differentiate data abstraction and data independence with suitable examples.
+4. Analyze the three-level architecture of DBMS with a neat diagram and suitable explanation.
+5. Illustrate the architecture of DBMS and explain the role of each component in database processing.
+6. Name different types of database users in DBMS.
+7. Explain schema and instance in DBMS.
+8. Explain different levels of schema in DBMS.
+9. Compare physical and logical schema.
+10. Classify different types of database schemas.
+
+Data Models
+11. Compare various data models used in DBMS on the basis of structure, usage, and advantages.
+12. Examine conceptual, representational, and physical data models.
+13. Contrast hierarchical model and network model.
+
+ER Model
+14. Diagram the ER model using suitable symbols and explain entities, attributes, and relationships with examples.
+15. Analyze the ER model with examples.
+16. Differentiate strong entity and weak entity sets.
+17. Discuss the importance of ER design issues.
+
+Relational Model & Keys
+18. Explain the structure of a relational database.
+19. Describe the concept of keys in DBMS.
+20. Classify all types of keys in DBMS with examples.
+21. Differentiate primary key, foreign key, and candidate key with suitable examples.
+22. Identify integrity constraints in DBMS.
+
+Relational Algebra
+23. Demonstrate selection, projection, and Cartesian product operations using relational algebra examples.
+
+SQL
+24. Illustrate different database languages such as DDL, DML, DCL, and TCL with suitable examples.
+25. Examine different database languages with examples.
+26. Differentiate procedural and non-procedural query languages.
+27. Recall aggregate functions in SQL.
+28. Demonstrate the use of GROUP BY and HAVING clauses with suitable SQL query examples.
+29. Illustrate SQL set operators with suitable examples.
+30. Classify the types of SQL set operators.
+31. Discuss different set operations in SQL.
+32. Differentiate different types of joins with suitable examples.
+33. Examine different types of joins in detail with suitable SQL query examples.
+34. Classify joins and list their types.
+
+Triggers
+35. Explain the concept of triggers.
+
+Normalization
+37. State First Normal Form (1NF) from the concept of Normalization.
+38. Interpret Second Normal Form (2NF) with example.
+39. Recall Second Normal Form (2NF).
+40. Contrast 2NF and 3NF in the concept of Normalization.
+41. Interpret Third Normal Form (3NF) with a suitable example and explain removal of transitive dependency.
+42. State Boyce-Codd Normal Form (BCNF) from the concept of Normalization.
+43. Discuss Boyce-Codd Normal Form (BCNF).
+44. Discuss Fourth Normal Form (4NF).
+45. Explain partial dependency with example.
+46. Interpret the concept of non-loss decomposition with a suitable normalization example.
+
+Database Anomalies
+47. Interpret insertion, deletion, and update anomalies with suitable examples from database tables.

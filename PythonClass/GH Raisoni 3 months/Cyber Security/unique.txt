@@ -1,0 +1,26 @@
+1) Explain terns
+    a) criminal attacks
+    b) publicity attacks
+    c) legal attacks
+2) What is cyber threats? and Explain
+    a) Cyber warfare
+    b) Cyber Crime
+    c) Cyber terrorism
+3) Write RSA algorithm
+4) Explain the national security policy
+5) What are the cyber-attacks and cyber threats
+6) How to detect the credit card attacks
+7) Explain different types of attacks in detail
+8) What are the three principals of data privacy
+9) Explain the Need of Compressive Cyber Security Policy? Orwhy we need Cyber Security Policy in today's World?
+10) Write a Secure Hash Algorithm (SHA-512)
+11) Differentiate between WPA & WPA2
+12) Write about cyber security financial fraud
+13) Explain the Principle of Security in brief
+14) Explain about the physical infrastructure required in data transfer.
+15) Explain credit card fraud in mobile and wireless computing with net diagram
+16) What is cyber threats?
+17) Write a unlock cipher Principles.
+18) Differentiate Symmetric and Asymmetric key Cryptography?
+19) Difference between Cryptography and Cyber Security
+20) What types of Security Services? Explain All types of Security Management.

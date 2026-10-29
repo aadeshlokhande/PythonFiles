@@ -1,9 +1,10 @@
 from django.shortcuts import render, redirect
 from .models import ToDoModel
-# Create your views here.
 
+
+# Create your views here.
 def addTask(request):
-    if request.method=='POST':
+    if request.method == 'POST':
         title = request.POST.get('title')
         priority = request.POST.get('priority')
         notes = request.POST.get('notes')

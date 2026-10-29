@@ -1,0 +1,144 @@
+1. Data inconsistency increase (DBMS ka feature nahi hai):
+DBMS ka main purpose data inconsistency ko kam karna hota hai. Yeh ensure karta hai ki database me data update hone ke baad har jagah same aur consistent rahe.
+
+2. Relational Model:
+Relational Model me data tables ke form me store kiya jata hai. Table ki rows ko tuples aur columns ko attributes kaha jata hai. Yeh sabse popular data model hai.
+
+3. Metadata – Data about Data:
+Metadata matlab data ke baare me information. Yeh data ki structure, type aur properties ko describe karta hai, jisse database manage karna easy ho jata hai.
+
+4. Relational Algebra – Procedural Query Language:
+Relational Algebra me user ko batana padta hai ki data kaise retrieve karna hai. Isme operations ka sequence define kiya jata hai.
+
+5. Cartesian Product:
+Cartesian Product ek relation ke har tuple ko dusre relation ke har tuple ke saath combine karta hai. Yeh join operations ka base hota hai.
+
+6. Eliminate Anomalies and Redundancy:
+Normalization data duplication ko reduce karta hai aur database ko organized banata hai. Isse insertion, deletion aur update anomalies avoid hoti hain.
+
+7. Transitive Dependencies:
+2NF partial dependency ko remove karta hai lekin transitive dependency abhi bhi ho sakti hai. Isse remove karne ke liye relation ko 3NF me convert kiya jata hai.
+
+8. Virtual Level (Abstraction Level nahi hai):
+DBMS me sirf Physical, Logical aur View levels hote hain. Virtual Level database abstraction ka standard level nahi hai.
+
+9. External Schema:
+External Schema user-specific views ko represent karta hai. Har user apni requirement ke hisab se database ka alag part dekh sakta hai.
+
+10. BCNF:
+BCNF, 3NF se bhi stricter normal form hai. Yeh kuch extra anomalies ko remove karta hai jo 3NF me reh sakti hain.
+
+11. 1NF:
+Kisi bhi table ko higher normal forms me convert karne se pehle 1NF me hona zaruri hai. 1NF ensure karta hai ki har attribute atomic value rakhe.
+
+12. UNION:
+UNION operator do relations ke records ko combine karta hai aur duplicate rows ko automatically remove kar deta hai. Result me sirf unique records milte hain.
+
+13. Business Logic Processing:
+3-tier architecture me middle layer business rules aur application logic ko handle karti hai. Yeh user aur database ke beech bridge ka kaam karti hai.
+
+14. Strong Entity:
+Weak entity khud exist nahi kar sakti aur uski identification ke liye strong entity par depend karti hai. Isme strong entity ki primary key use hoti hai.
+
+15. 3-Tier Architecture:
+3-tier architecture presentation layer, business logic layer aur database layer ko alag karta hai. Isse security, scalability aur maintenance improve hoti hai.
+
+16. Projection:
+Projection ek unary operation hai kyunki yeh sirf ek relation par kaam karta hai. Yeh table se specific columns select karta hai.
+
+17. Minimal Super Key:
+Candidate Key tuple ko uniquely identify karti hai aur usme koi extra attribute nahi hota. Isliye ise minimal super key kaha jata hai.
+
+18. Atomic Values:
+Jab relation ke har attribute me indivisible (single) value hoti hai tab relation 1NF me hota hai. Repeating groups allow nahi hote.
+
+19. Non-prime Attribute Depends on Another Non-prime Attribute:
+Transitive dependency tab hoti hai jab ek non-key attribute kisi dusre non-key attribute par depend karta hai. Isse redundancy badhti hai.
+
+20. Weak Entities:
+Identifying relationship weak entity ko uski strong entity se connect karta hai. Yeh weak entity ko uniquely identify karne me help karta hai.
+
+21. Contains Redundant Attributes:
+Super Key tuple ko uniquely identify karti hai lekin usme extra attributes ho sakte hain. Candidate Key me koi unnecessary attribute nahi hota.
+
+22. A Uniquely Determines B:
+Functional Dependency A → B ka matlab hai ki A ki har value ke liye B ki ek fixed value hogi. Yaani A, B ko determine karta hai.
+
+23. Transitive Dependency:
+3NF transitive dependencies ko remove karta hai. Isse redundancy kam hoti hai aur database consistency improve hoti hai.
+
+24. Non-Procedural Queries:
+Tuple Relational Calculus me user sirf batata hai ki kya data chahiye. Data kaise retrieve hoga yeh system decide karta hai.
+
+25. Logical Level:
+Logical Level database ki complete structure ko describe karta hai. Isme entities, attributes aur relationships define kiye jate hain.
+
+26. Double Ellipse:
+ER Diagram me multivalued attribute ko double ellipse se represent kiya jata hai. Iska matlab hai attribute ke multiple values ho sakte hain.
+
+27. External Schema:
+External Schema abstraction ka highest level provide karta hai. Yeh user ko sirf required data hi dikhata hai.
+
+28. Duplicate Rows Removed Automatically:
+Projection operation columns select karta hai aur duplicate rows ko automatically remove kar deta hai. Result me unique rows milti hain.
+
+29. Primary Key:
+Primary Key candidate keys me se select ki jati hai. Yeh har tuple ko uniquely identify karti hai aur null ya duplicate values allow nahi karti.
+
+30. Part of Composite Key:
+Partial dependency tab hoti hai jab non-prime attribute composite key ke sirf ek part par depend kare. Yeh 2NF ko violate karti hai.
+
+31. 3NF:
+3NF transitive dependency ko remove karta hai. Yeh 2NF se aage redundancy ko aur kam karta hai.
+
+32. Virtual Level:
+Physical, Logical aur View hi valid abstraction levels hain. Isliye Virtual Level valid abstraction level nahi hai.
+
+33. Difference:
+Difference operation ke liye dono relations union compatible hone chahiye. Dono me same number aur type ke attributes hone zaruri hain.
+
+34. Increases Duplicate Data:
+Normalization ka purpose duplicate data ko reduce karna hai. Duplicate data badhana normalization ka advantage nahi hai.
+
+35. Atomic Values:
+1NF me har attribute me sirf ek atomic value honi chahiye. Repeating groups ya multiple values allow nahi hoti.
+
+36. Physical Schema:
+Physical Schema batata hai ki data storage devices me physically kaise store kiya gaya hai. Isme files aur access methods include hote hain.
+
+37. Changes in Conceptual Schema Without Affecting External Schema:
+Logical Data Independence ka matlab hai ki conceptual schema me changes karne par user views aur application programs par koi effect nahi padta.
+
+38. Adding a New Attribute in Conceptual Schema:
+Conceptual schema me naya attribute add karna logical data independence ka example hai. Existing user views waise hi kaam karte rehte hain.
+
+39. Association Among Entities:
+Relationship Set entities ke beech ke connections ko represent karta hai. Yeh batata hai ki entities ek dusre se kaise related hain.
+
+40. Choosing Rows:
+Selection (σ) operation condition satisfy karne wali rows ko retrieve karta hai. Yeh relation ke records ko filter karta hai.
+
+41. Multiple Candidate Keys:
+Ek relation me multiple candidate keys ho sakti hain. Inme se kisi ek ko primary key select kiya jata hai.
+
+42. 2NF:
+2NF partial dependencies ko remove karta hai. Har non-prime attribute ko poori primary key par depend hona chahiye.
+
+43. Determinant is not a Super Key:
+BCNF ke according har determinant super key hona chahiye. Agar determinant super key nahi hai to BCNF violate hota hai.
+
+44. Object-Oriented DBMS:
+Object-Oriented DBMS data ko objects ke form me store karta hai. Yeh multimedia aur complex applications ke liye suitable hota hai.
+
+45. ρ (Rename):
+Rename operator relation ya attribute ka naam change karta hai. Yeh query me ambiguity ko avoid karne me help karta hai.
+
+46. X Must Be Super Key or Y Should Be Prime Attribute:
+3NF ke according har functional dependency X → Y me ya to X super key hona chahiye ya Y prime attribute hona chahiye.
+
+47. Multivalued Attributes:
+1NF multivalued attributes ko remove karta hai aur ensure karta hai ki har field me sirf ek atomic value ho.
+
+48. Multiple Candidate Keys:
+Kisi relation me ek se zyada candidate keys ho sakti hain jo tuples ko uniquely identify karti hain. Lekin unme se sirf ek ko primary key choose kiya jata hai.
+

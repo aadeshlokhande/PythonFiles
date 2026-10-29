@@ -1,0 +1,60 @@
+Explain the concept of Artificial Intelligence and its key features.
+Describe the structure of an intelligent agent with a neat diagram.
+Differentiate between Breadth First Search and Depth First Search.
+Define problem formulation in AI with a suitable example.
+Compare uninformed search and heuristic search techniques.
+Explain the problems faced in game playing and their solutions.
+Elaborate the structure of intelligent agents.
+Discuss AI techniques and search knowledge in detail.
+Explain problem-solving agents and their working mechanism.
+Describe Hill Climbing algorithm with limitations.
+Explain Depth First Search with advantages and disadvantages.
+Illustrate the concept of machine learning in AI.
+What are Hidden Markov Models? Explain with applications.
+Explain Bayesian Network with suitable example.
+Discuss Alpha-Beta pruning with example.
+Describe different types of environments in AI.
+Differentiate between rational agents and intelligent agents.
+Explain different types of agents in AI with architecture.
+Explain Breadth First Search with example.
+Compare DFS and Hill Climbing algorithms.
+Explain the role of heuristic functions in search.
+Elaborate game playing in AI with suitable example.
+Describe evaluation functions in adversarial search.
+Explain problem reduction in AO* algorithm
+Explain the structure of problem-solving agents.
+Discuss problem formulation in Artificial Intelligence. 
+Explain AI search techniques with examples
+Explain Bayesian Network with suitable example.
+Discuss Hidden Markov Models and their applications.
+Illustrate ethics and risks of Artificial Intelligence.
+Explain agent and environment with suitable examples.
+Describe types of intelligent agents
+Define theminimax algorithm with diagram
+Discuss Alpha-Beta pruning with example.
+Explain heuristic search techniques.
+Illustrate the evaluation functions in game trees.
+Elaborate problem-solving agents.
+Explain AI search knowledge in detail.
+Discuss problem formulation with example.
+Analyze the architecture of neural networks and illustrate their role in computational problem solving.
+Apply the principles of genetic algorithms to solve optimization problems with suitable process flow.
+Examine the practical applications of fuzzy reasoning systems in handling uncertain real-world situations.
+Illustrate the working of perception mechanisms in cognitive robotics with suitable examples.
+Analyze localization and mapping techniques used for autonomous robotic navigation.
+Evaluate ethical risks associated with intelligent robotic systems in real-world deployment.
+Illustrate the process of problem formulation in Artificial Intelligence using a suitable example.
+Differentiate between uninformed search and heuristic search techniques with suitable comparison parameters.
+Assess major computational challenges encountered in adversarial game playing.
+Demonstrate the working of Breadth First Search using state-space traversal.
+Apply the minimax framework to determine optimal strategic decisions in game playing.
+Examine the significance of evaluation functions in game tree search.
+Apply Hidden Markov Models for sequential reasoning with suitable illustration.
+Analyze predictive estimation using Kalman filtering in dynamic systems.
+Explain the structural framework of intelligent agents with neat representation.
+Illustrate the working mechanism of problem-solving agents using suitable example.
+Summarize the role of search knowledge in Artificial Intelligence problem solving.
+Demonstrate perception mechanisms used in cognitive robotics with suitable examples.
+Apply Hill Climbing algorithm to solve a search problem and identify its practical limitations.
+Discuss Alpha-Beta pruning with example.
+Illustrate Dynamic Bayesian Networks for temporal probabilistic reasoning.

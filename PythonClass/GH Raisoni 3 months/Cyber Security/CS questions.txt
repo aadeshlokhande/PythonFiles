@@ -1,0 +1,431 @@
+Q. 1 Objective type questions (Compulsory Question)
+
+1 Which is an example of symmetric algorithm?
+A) RSA
+B) DES 
+C) Diffie-Hellman
+D) ECC
+
+2 RSA is a:
+A) Symmetric algorithm
+B) Public key algorithm 
+C) Hash algorithm
+D) Compression algorithm
+
+3 RSA was developed by:
+A) Rivest, Shamir, and Adleman 
+B) Diffie and Hellman
+C) Caesar
+D) Shannon
+
+4 Diffie-Hellman is used for:
+A) Key Exchange 
+B) Compression
+C) Hashing
+D) Backup
+
+5 ECC stands for:
+A) Elliptic Curve Cryptography 
+B) Electronic Code Cipher
+C) Error Correction Code
+D) Encryption Control Center
+
+6 Hash functions are used for:
+A) Integrity verification 
+B) Video editing
+C) Compression
+D) Routing
+
+7 SHA-512 produces:
+A) 128-bit hash
+B) 256-bit hash
+C) 512-bit hash 
+D) 1024-bit hash
+
+8 Message Authentication ensures:
+A) Sender authenticity 
+B) Data compression
+C) Storage
+D) Formatting
+
+9 MAC stands for:
+A) Media Access Control
+B) Message Authentication Code 
+C) Multiple Access Channel
+D) Memory Access Code
+
+10 Digital Signature provides:
+A) Authentication and Non-repudiation 
+B) Data compression
+C) Storage
+D) Routing
+
+11 Which algorithm is commonly used for digital signatures?
+A) RSA 
+B) DES
+C) AES
+D) CRC
+
+12 Kerberos is used for:
+A) Authentication 
+B) Compression
+C) Routing
+D) Backup
+
+SECTION B
+Solve any four questions from Question 2 to Question 6.
+
+Q. 2 Solve the following
+A What is cyber threats?
+B Write a unlock cipher Principles
+C Write RSA algorithm
+
+Q. 3 Solve the following
+A Explain the national security policy
+B Explain different types of attacks in detail
+C What are the three principals of data privacy
+
+Q. 4 Solve any two of the following
+A What are the cyber-attacks and cyber threats 
+B How to detect the credit card attacks 
+C What is cyber threats? and Explain 
+a) Cyber warfare 
+b) Cyber Crime 
+c) Cyber terrorism
+
+Q. 5 Solve any two of the following
+A Explain the Need of Compressive Cyber Security Policy? Orwhy we need Cyber Security Policy in today’s World?
+B Write a Secure Hash Algorithm (SHA-512)
+C Differentiate between WPA & WPA2
+
+Q. 6 Solve any two of the following
+A Differentiate Symmetric and Asymmetric key Cryptography?
+B Difference between Cryptography and Cyber Security
+C What types of Security Services? Explain All types of Security Management.
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>==<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>==<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+Q. 1 Objective type questions (Compulsory Question)
+1 PGP stands for:
+A) Pretty Good Privacy 
+B) Public General Protocol
+C) Protected Gateway Protocol
+D) Private Group Policy
+
+2 SSL stands for:
+A) Secure Sockets Layer 
+B) Safe Socket Link
+C) Security Service Layer
+D) System Security Link
+
+3 IPsec is used for:
+A) Secure IP Communication 
+B) Email
+C) Printing
+D) Database Management
+
+4 Weak Authentication leads to:
+A) Unauthorized access 
+B) Better security
+C) Data backup
+D) High availability
+
+5 Ethical Hacking means:
+A) Authorized security testing 
+B) Illegal hacking
+C) Cyber terrorism
+D) Data theft
+
+6 Access Control is used to:
+A) Restrict resource access 
+B) Compress data
+C) Backup data
+D) Delete data
+
+7 Audit in cyber security helps:
+A) Monitor activities 
+B) Increase malware
+C) Delete logs
+D) Compress files
+
+8 Poor cyber security awareness causes:
+A) Increased vulnerabilities 
+B) Better protection
+C) Faster processing
+D) Less storage
+
+9 HTTP security mainly protects:
+A) Web applications 
+B) Hardware
+C) Printers
+D) USB devices
+
+10 SOAP stands for:
+A) Simple Object Access Protocol 
+B) Secure Object Access Process
+C) Standard Object Application Protocol
+D) Secure Online Access Protocol
+
+11 Intrusion Detection System (IDS) is used to:
+A) Detect malicious activities 
+B) Compress data
+C) Store data
+D) Encrypt data
+
+12 Honeypot is:
+A) A decoy system to attract attackers 
+B) Antivirus software
+C) Firewall
+D) Backup tool
+
+SECTION B
+Solve any four questions from Question 2 to Question 6.
+
+Q. 2 Solve the following
+A Write about cyber security financial fraud
+B Write RSA algorithm
+C Explain the Principle of Security in brief
+
+Q. 3 Solve the following
+A Explain the national security policy
+B Explain different types of attacks in detail
+C What are the three principals of data privacy
+
+Q. 4 Solve any two of the following
+A Write a Secure Hash Algorithm (SHA-512)
+B Explain about the physical infrastructure required in data transfer.
+C Explain the Need of Compressive Cyber Security Policy? Or why we need Cyber Security Policy in today’s World?
+
+Q. 5 Solve any two of the following
+A What are the cyber-attacks and cyber threats 
+B How to detect the credit card attacks 
+C What is cyber threats? and Explain 
+a) Cyber warfare 
+b) Cyber Crime 
+c) Cyber terrorism
+
+Q. 6 Solve any two of the following
+A Differentiate between WPA & WPA2
+B Explain credit card fraud in mobile and wireless computing with net diagram
+C Explain terns 
+criminal attacks, 
+publicity attacks,
+legal attacks
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>==<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>==<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+Q. 1 Objective type questions (Compulsory Question)
+1 Which is NOT a security attack?
+A) Passive attack
+B) Active attack
+C) Brute force attack
+D) Data backup 
+
+2 Security services include:
+A) Confidentiality 
+B) Farming
+C) Transportation
+D) Manufacturing
+
+3 Which technique replaces characters with other characters?
+A) Transposition
+B) Substitution 
+C) Compression
+D) Fragmentation
+
+4 Which technique rearranges characters?
+A) Transposition 
+B) Substitution
+C) Hashing
+D) Encoding
+
+5 Symmetric key cryptography uses:
+A) One key 
+B) Two keys
+C) Three keys
+D) No key
+
+6 Asymmetric cryptography uses:
+A) One key
+B) Two keys 
+C) Three keys
+D) No key
+
+7 Steganography is:
+A) Hiding data within another medium 
+B) Encrypting data
+C) Compressing data
+D) Deleting data
+
+8 Brute Force Attack attempts:
+A) All possible keys 
+B) Only one key
+C) Random guessing without keys
+D) Data backup
+
+9 DES stands for:
+A) Data Encryption Standard 
+B) Digital Encryption Service
+C) Data Encoding System
+D) Digital Encoding Standard
+
+10 DES is a:
+A) Block Cipher 
+B) Stream Cipher
+C) Hash Function
+D) Firewall
+
+11 Which attack analyzes encrypted data?
+A) Cryptanalytic attack 
+B) Physical attack
+C) Natural attack
+D) Social attack
+
+12 Network Security Model mainly provides:
+A) Secure communication 
+B) Entertainment
+C) Education
+D) Manufacturing
+
+SECTION B
+Solve any four questions from Question 2 to Question 6.
+
+Q. 2 Solve the following
+A Explain the national security policy
+B Explain different types of attacks in detail
+C What are the three principals of data privacy
+
+Q. 3 Solve the following
+A Write about cyber security financial fraud
+B Write RSA algorithm
+C Explain the Principle of Security in brief
+
+Q. 4 Solve any two of the following
+A Differentiate between WPA & WPA2
+B Explain credit card fraud in mobile and wireless computing with net diagram
+C Explain terins 
+criminal attacks, 
+publicity attacks,
+legal attacks
+
+Q. 5 Solve any two of the following
+A Write a Secure Hash Algorithm (SHA-512)
+B Explain about the physical infrastructure required in data transfer.
+C Explain the Need of Compressive Cyber Security Policy? Orwhy we need Cyber Security Policy in today’s World?
+
+Q. 6 Solve any two of the following
+A What are the cyber-attacks and cyber threats 
+B How to detect the credit card attacks 
+C What is cyber threats? and Explain 
+a) Cyber warfare 
+b) Cyber Crime 
+c) Cyber terrorism
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>==<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>==<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+Q. 1 Objective type questions (Compulsory Question)
+1 What is Cyber Security?
+A) Protection of physical assets
+B) Protection of digital systems, networks, and data 
+C) Protection of buildings
+D) Protection of vehicles
+
+2 Which of the following is a cyber threat?
+A) Flood
+B) Earthquake
+C) Malware 
+D) Drought
+
+3 Internet Governance refers to:
+A) Management of roads
+B) Development and application of Internet policies 
+C) Banking regulations
+D) Tax collection
+
+4 Cyber Warfare is:
+A) War using traditional weapons
+B) Attack on computer systems by a nation-state 
+C) Physical attack on buildings
+D) Economic competition
+
+5 Cyber Crime includes:
+A) Hacking 
+B) Farming
+C) Teaching
+D) Manufacturing
+
+6 Cyber Terrorism aims to:
+A) Improve security
+B) Create fear through cyber attacks 
+C) Increase employment
+D) Improve governance
+
+7 Cyber Espionage means:
+A) Cyber education
+B) Stealing confidential information electronically 
+C) Data backup
+D) Data recovery
+
+8 A comprehensive cyber security policy is needed for:
+A) Protecting information assets 
+B) Entertainment
+C) Sports activities
+D) Agriculture
+
+9 A nodal authority in cyber security is responsible for:
+A) Coordinating security efforts 
+B) Building roads
+C) Managing hospitals
+D) Managing schools
+
+10 International law in cyber security helps:
+A) Promote cyber cooperation among nations 
+B) Increase cyber attacks
+C) Restrict internet use
+D) Reduce communication
+
+11 Cryptography is:
+A) Data compression
+B) Data encryption and decryption 
+C) Data deletion
+D) Data storage
+
+12 Confidentiality means:
+A) Preventing unauthorized access 
+B) Ensuring availability
+C) Data recovery
+D) Data duplication
+
+SECTION B
+Solve any four questions from Question 2 to Question 6.
+Q. 2 Solve the following
+A Explain the national security policy
+B Explain different types of attacks in detail
+C Explain the Principle of Security in brief
+
+Q. 3 Solve the following
+A Write about cyber security financial fraud
+B Write RSA algorithm
+C What are the three principals of data privacy
+
+Q. 4 Solve any two of the following
+A Explain terns 
+    a.criminal attacks, 
+    b.publicity attacks,
+    c.legal attacks
+B What are the cyber-attacks and cyber threats 
+C How to detect the credit card attacks
+
+Q. 5 Solve any two of the following
+A What is cyber threats? and Explain 
+    a) Cyber warfare 
+    b) Cyber Crime 
+    c) Cyber terrorism
+B Differentiate between WPA & WPA2
+C Explain credit card fraud in mobile and wireless computing with net diagram
+
+Q. 6 Solve any two of the following
+A Explain about the physical infrastructure required in data transfer
+B Explain the Need of Compressive Cyber Security Policy? Or why we need Cyber Security Policy in today’s World?
+C Write a Secure Hash Algorithm (SHA-512)

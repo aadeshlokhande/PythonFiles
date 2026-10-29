@@ -1,0 +1,57 @@
+Now slice the date
+
+
+Create new duplicate pivot
+Calender table
+Date column drag to rows
+Right click on 2023 and do ungroup
+
+Now it show only date on rows
+
+Now grp it on months and days
+It includes date also
+
+Remove date
+Remove month
+
+Goto insert slicer and select date month
+
+Cut from pivot report and paste it in dashboard
+
+Now go to slicer tab
+Report connection 
+And select all tables
+
+Now time to formate the month pivot
+
+No need of header
+Go to slicer
+Slicer settings 
+Remove display header
+
+Select any design
+Duplicate it
+And give name my style
+Whole slicer
+Format
+(Modify accordingly )
+
+For size you can get options heights and width in slicer tab
+
+Modify custome slicer
+Border none
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+select pivot table 
+(insert tab me nhi hai hai toh pivot analysis tab me hoga)
+go to insert tab
+pivot chart
+--> pivot chart 
+--> area chart 
+
+
+delete all text and format accordingly
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+  

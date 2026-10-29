@@ -1,0 +1,103 @@
+
+### Premium AI Prompt – C Programming Course Poster
+Create a premium, modern, and highly professional educational poster for a "C Programming Course" by Tutehub.in. The design should look like a top IT training institute advertisement with a futuristic technology theme.
+Use a dark blue, black, and cyan gradient background with glowing neon lighting, digital circuit patterns, binary code, floating programming symbols, and realistic coding screens displaying colorful C language syntax. Include a confident college student coding on a laptop in a modern workspace with multiple monitors showing C programming code. The overall design should feel premium, clean, and visually attractive.
+
+## Main Headline
+MASTER C PROGRAMMING
+## Sub Heading
+Beginner to Advanced | 100% Practical Training
+Add a premium badge:
+No Prior Programming Knowledge Required
+---
+## Course Highlights (with modern icons)
+✅ Complete Beginner to Advanced Curriculum
+✅ 100% Practical Learning
+✅ Live Interactive Online Classes
+✅ 150+ Practice Questions
+✅ 3 Real-World Mini Projects
+✅ Daily Coding Exercises
+✅ Interview Preparation
+✅ Doubt Solving Sessions
+✅ Lifetime Notes & Study Material
+✅ Certificate of Course Completion
+---
+## Detailed Course Curriculum
+• Introduction to Programming
+• Introduction to C Language
+• Installing Compiler & IDE
+• Program Structure
+• Variables & Data Types
+• Keywords & Identifiers
+• Input & Output Functions
+• Operators
+• Decision Making (if, if-else, switch)
+• Loops (for, while, do-while)
+• Nested Loops
+• Pattern Programs
+• Functions
+• Recursion
+• Arrays (1D & 2D)
+• Strings
+• Pointers
+• Dynamic Memory Allocation
+• Structures
+• Unions
+• Enumerations
+• File Handling
+• Header Files
+• Preprocessor Directives
+• Storage Classes
+• Error Handling Basics
+• Programming Best Practices
+• Mini Project Development
+---
+## Course Details
+📅 Batch Starting: 16 August 2026
+⏳ Duration: 2 Months
+💰 Course Fees: 2,999 Rs
+🌐 Mode: Online
+📞 Contact: 9272199354
+---
+## Call To Action
+Enroll Now – Limited Seats Available
+Add a glowing "Register Today" button.
+---
+Use premium typography with white, cyan, and golden accent colors. Maintain proper spacing, modern cards, glassmorphism effects, subtle shadows, and glowing UI elements. Make the poster look luxurious, clean, and highly professional. Ensure all text is perfectly readable, aligned, and free from spelling mistakes.
+Poster Size: A4 Portrait (Print Ready), Ultra HD (4K), suitable for social media, WhatsApp sharing, and printing.
+
+
+
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+
+> 🚀 *Want to Start Your Programming Journey?*
+
+Hi! 👋
+
+Agar aap Programming ya Software Development me career banana chahte hain, to *C Programming* se better starting point koi nahi hai.
+
+🎯 *TuteHub.in* lekar aa raha hai *2 Months Complete C Programming Course* jisme aap *Beginner se Advanced* tak sab kuch practically seekhenge.
+
+✨ *Course Highlights:*
+✅ 100% Practical Training
+✅ Live Interactive Online Classes
+✅ 150+ Practice Questions
+✅ Daily Coding Exercises
+✅ 3 Real-World Mini Projects
+✅ Interview Preparation
+✅ Lifetime Notes & Study Material
+✅ Course Completion Certificate
+
+📅 *Batch Starts:* 16 August 2026
+💻 *Mode:* Online
+💰 *Fees:* ₹2,999
+
+🎁 *FREE Online Demo Session Available!*
+
+Demo attend karke aap teaching style, course structure aur learning approach dekh sakte hain. Agar pasand aaye tabhi join kijiye—*no obligation*. 😊
+
+📩 *DM for Demo Session*
+📞 *Contact:* 9272199354
+

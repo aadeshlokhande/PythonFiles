@@ -1,0 +1,15 @@
+high V --> 1
+low V  --> 0
+
+hello
+
+
+10101010101110010000111111110001
+
+code ---> machine --> binary ---> execution ---> answer
+answer --> machine ---> human language
+
+
+
+compiler --> 
+interpreter ---> 

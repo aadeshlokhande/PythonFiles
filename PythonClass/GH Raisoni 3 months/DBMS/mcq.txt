@@ -1,0 +1,288 @@
+1 Which of the following is NOT a feature of DBMS?
+A) Data redundancy control
+✅ B) Data inconsistency increase
+C) Data security
+D) Data sharing
+
+2 Into which data model uses tables, tuples and attributes?
+A) Hierarchical Model
+B) Network Model
+✅ C) Relational Model
+D) Object-Oriented Model
+
+3 Metadata is:
+A) Raw data
+✅ B) Data about data
+C) Duplicate data
+D) Encrypted data
+
+4 Relational algebra is a:
+A) Declarative language
+✅ B) Procedural query language
+C) Data definition language
+D) Programming language
+
+5 Which operator combines tuples from two relations?
+A) Projection
+B) Selection
+✅ C) Cartesian Product
+D) Rename
+
+6 The primary goal of normalization is to:
+A) Increase redundancy
+B) Improve query complexity
+✅ C) Eliminate anomalies and redundancy
+D) Increase storage space
+
+7 A relation in 2NF may still contain:
+A) Multivalued attributes
+B) Partial dependencies
+✅ C) Transitive dependencies
+D) No candidate key
+
+8 From the following is NOT a level of data abstraction?
+A) Physical Level
+B) Logical Level
+✅ C) Virtual Level
+D) View Level
+
+9 The schema that contains user-specific views is called:
+A) Internal schema
+B) Conceptual schema
+✅ C) External schema
+D) Physical schema
+
+10 Which normal form is considered stricter than 3NF?
+A) 2NF
+B) 1NF
+✅ C) BCNF
+D) 4NF
+
+11 A table must be in _____ before converting to 2NF.
+A) BCNF
+B) 4NF
+✅ C) 1NF
+D) 3NF
+
+12 Which SQL set operator removes duplicate tuples automatically?
+A) UNION ALL
+B) INTERSECT ALL
+✅ C) UNION
+D) PRODUCT
+
+1 In a 3-tier architecture, the middle layer is responsible for:
+A) Data storage
+B) User interaction
+✅ C) Business logic processing
+D) Data redundancy
+
+2 In ER modeling, a weak entity depends on:
+A) Composite attribute
+✅ B) Strong entity
+C) Derived attribute
+D) Multivalued attribute
+
+3 Which DBMS architecture is most suitable for web applications?
+A) 1-Tier
+B) 2-Tier
+✅ C) 3-Tier
+D) Standalone
+
+4 From the following which relational algebra operation is unary?
+A) Union
+B) Difference
+C) Cartesian Product
+✅ D) Projection
+
+5 A candidate key is:
+A) Any attribute
+✅ B) Minimal super key
+C) Composite attribute
+D) Foreign key
+
+6 A relation is in 1NF if:
+A) It contains transitive dependency
+✅ B) Attributes contain atomic values
+C) Partial dependency exists
+D) Multivalued dependency exists
+
+7 Transitive dependency exists when:
+A) Primary key determines non-prime attribute directly
+✅ B) Non-prime attribute depends on another non-prime attribute
+C) Composite key exists
+D) No functional dependency exists
+
+8 In ER diagrams, identifying relationship is mainly associated with:
+A) Strong entities
+✅ B) Weak entities
+C) Composite attributes
+D) Derived attributes
+
+9 Super key differs from candidate key because super key:
+A) Cannot identify tuples uniquely
+✅ B) Contains redundant attributes
+C) Cannot be primary key
+D) Must be foreign key
+
+10 A functional dependency A → B means:
+A) A and B are candidate keys
+B) B uniquely determines A
+✅ C) A uniquely determines B
+D) A and B are foreign Keys
+
+11 3NF removes:
+A) Partial dependency
+B) Multivalued dependency
+✅ C) Transitive dependency
+D) Join dependency
+
+12 Tuple Relational Calculus is based on:
+A) Procedural queries
+✅ B) Non-procedural queries
+C) File systems
+D) Data independence
+
+1. Which level of data abstraction describes the entire database structure?
+A) Physical Level
+B) View Level
+✅ C) Logical Level.
+D) External Level
+
+2. Following symbol is used for multivalued attribute in ER diagram?
+A) Single ellipse
+✅ B) Double ellipse
+C) Diamond.
+D) Rectangle
+
+3. Into which of the following provides highest level of data abstraction?
+A) Internal schema
+B) Conceptual schema
+✅ C) External schema
+D) Physical schema
+
+4. The result of projection operation can contain:
+A) Duplicate tuples
+B) Duplicate columns
+✅ C) Duplicate rows removed automatically.
+D) Only numeric values
+
+5. Which key is selected from candidate keys to uniquely identify tuples?
+A) Alternate Key
+B) Foreign Key
+✅ C) Primary Key.
+D) Composite Key
+
+6. Partial dependency occurs when a non-prime attribute depends on:
+A) Entire primary key
+B) Another non-prime attribute
+✅ C) Part of composite key.
+D) Foreign key
+
+7. Following which normal form eliminates transitive dependency?
+A) 1NF
+B) 2NF
+✅ C) 3NF.
+D) 4NF
+
+8. Which of the following is NOT a level of data abstraction?
+A) Physical Level
+B) Logical Level
+✅ C) Virtual Level.
+D) View Level
+
+9. From the following which operations requires union compatibility?
+A) Projection
+✅ B) Difference
+C) Selection.
+D) Rename
+
+10. Which of the following is NOT an advantage of normalization?
+A) Reduces redundancy
+B) Improves consistency
+C) Simplifies maintenance.
+✅ D) Increases duplicate data
+
+11. In 1NF, all attributes should contain:
+A) Multiple values
+✅ B) Atomic values
+C) Null values.
+D) Duplicate values
+
+12. Which schema describes database design at physical storage level?
+A) Conceptual Schema
+B) External Schema
+C) Logical Schema.
+✅ D) Physical Schema
+
+1. Logical data independence refers to:
+A) Changes in physical storage without affecting conceptual schema
+✅ B) Changes in conceptual schema without affecting external schema
+C) Changes in application programs only
+D) Changes in hardware configuration
+
+2. Which of the following is an example of logical data independence?
+A) Changing indexing technique
+B) Modifying file organization
+✅ C) Adding a new attribute in conceptual schema
+D) Changing storage device
+
+3. A relationship set in ER model represents:
+A) Attributes of entities
+B) Collection of similar entities
+✅ C) Association among entities
+D) Primary keys only
+
+4. Selection operation in relational algebra is equivalent to:
+A) Choosing columns
+✅ B) Choosing rows
+C) Joining tables
+D) Renaming attributes
+
+5. A relation can have:
+A) Only one candidate key
+✅ B) Multiple candidate keys
+C) No primary key
+D) Only composite keys
+
+6. Which normal form removes partial dependency?
+A) 1NF
+✅ B) 2NF
+C) 3NF
+D) BCNF
+
+7. BCNF is violated if:
+A) Relation contains atomic values
+✅ B) Determinant is not a super key
+C) Relation has candidate key
+D) No foreign key exists
+
+8. Which type of DBMS is best suited for complex object storage like multimedia?
+A) Relational DBMS
+B) Hierarchical DBMS
+✅ C) Object-Oriented DBMS
+D) Network DBMS
+
+9. From relational algebra operator changes the attribute name of a relation?
+A) σ
+B) π
+✅ C) ρ
+D) ×
+
+10. In 3NF, for every functional dependency X → Y:
+A) X must be foreign key
+B) Y must be multivalued
+✅ C) X must be super key or Y should be prime attribute
+D) Y must be non-prime attribute
+
+11. 1NF removes:
+A) Transitive dependency
+B) Partial dependency
+✅ C) Multivalued attributes
+D) Functional dependency
+
+12. A relation can have:
+A) Only one candidate key
+✅ B) Multiple candidate keys
+C) No primary key
+D) Only composite keys
+

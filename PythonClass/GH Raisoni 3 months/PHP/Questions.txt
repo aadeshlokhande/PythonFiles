@@ -1,0 +1,60 @@
+1. Define variables, constants, and data types in PHP with suitable examples.
+2. Differentiate between variables and constants in PHP.
+3. Define arrays and explain their types in PHP.
+4. Identify different types of arrays available in PHP and give one example of each.
+5. Compare indexed arrays and associative arrays in PHP.
+6. Define functions in PHP and state their advantages.
+7. Differentiate between user-defined functions and built-in functions in PHP.
+8. Explain user-defined functions and parameter passing in PHP.
+9. Define control structures and explain their purpose.
+10. Explain the use of control structures (if-else and switch) in PHP.
+11. Differentiate between switch statement and if-else ladder.
+12. Explain different looping constructs available in PHP.
+13. Differentiate between for loop and while loop with examples.
+14. Describe built-in string functions used in PHP.
+15. Identify various string manipulation functions in PHP.
+16. Describe different date and time functions available in PHP.
+17. Explain how PHP can be embedded within HTML pages.
+18. Discuss the features and benefits of PHP as a web development language.
+19. Discuss the applications of PHP in modern web development.
+20. Summarize the role of PHP in dynamic web application development.
+21. Discuss the architecture and working of PHP.
+22. Discuss the installation and setup of XAMPP/WAMP server for PHP development.
+23. Identify common array manipulation functions in PHP.
+24. Describe array sorting techniques and related functions.
+25. Implement a PHP program to display the current date and time.
+26. Solve a PHP program to reverse a string using built-in functions.
+27. Solve a PHP program to count vowels in a given string.
+28. Implement a PHP program to search an element in an array.
+29. Implement a PHP program to calculate the sum of array elements using a function.
+30. Implement a PHP program to find the factorial of a number using a function.
+31. Solve a PHP program to sort an array in ascending order.
+32. Identify commonly used file handling functions in PHP.
+33. Illustrate file reading and file writing operations in PHP.
+34. Describe regular expressions and their use in PHP.
+35. Solve a PHP program to validate an email address using regular expressions.
+36. Compare GET and POST methods used in form submission.
+37. Illustrate the process of form handling in PHP using GET and POST methods.
+38. Examine form validation techniques in PHP.
+39. Illustrate the process of creating and reading cookies in PHP.
+40. Compare sessions and cookies in PHP.
+41. Examine session handling in PHP and its importance in web applications.
+42. Analyze session management and cookie management in PHP applications.
+43. Examine cookie security and best practices for web applications.
+44. Analyze the complete lifecycle of a user session in PHP.
+45. Summarize the importance of SQL in database-driven applications.
+46. Summarize the significance of database connectivity in web applications.
+47. Apply database connectivity using MySQLi or PDO in PHP.
+48. Compare MySQLi and PDO database connectivity methods.
+49. Apply SQL CRUD operations through PHP-MySQL connectivity.
+50. Apply CRUD operations using PHP and MySQL with suitable examples.
+51. Evaluate the role of transactions in database management systems.
+52. Evaluate the advantages of using joins in relational databases.
+53. Evaluate the importance of indexes in database performance optimization.
+54. Evaluate the importance of database security in PHP applications.
+55. Summarize the importance of security in PHP web applications.
+56. Examine security measures such as input filtering and output escaping.
+57. Analyze the causes and prevention of SQL Injection attacks.
+58. Apply prepared statements in PHP to prevent SQL Injection.
+59. Illustrate file upload handling in PHP with suitable code.
+60. Analyze file upload functionality and associated security concerns in PHP.

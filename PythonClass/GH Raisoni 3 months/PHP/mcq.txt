@@ -1,0 +1,287 @@
+1 PHP stands for:
+A) Personal Home Page 
+B) Private Home Page 
+✅C) Hypertext Preprocessor 
+D) Programming Home Page
+
+2 Which software package is commonly used to run PHP locally?
+A) Photoshop 
+✅B) XAMPP 
+C) AutoCAD 
+D) VLC
+
+3 Which symbol is used before a variable in PHP?
+A) #
+B) @
+✅C) $
+D) &
+
+4 Which statement is used for decision making?
+A) echo
+✅B) if
+C) print
+D) include
+
+5 Which loop executes at least once?
+A) for
+B) while
+C) foreach
+✅D) do-while
+
+6 Which keyword is used to create a function?
+A) define
+B) create
+✅C) function
+D) method
+
+7 Which array stores key-value pairs?
+A) Indexed Array
+✅B) Associative Array
+C) Multidimensional Array
+D) Numeric Array
+
+8 Which function returns the length of a string?
+A) count()
+B) size()
+✅C) strlen()
+D) len()
+
+9 Which method sends form data in the URL?
+A) POST
+B) SESSION
+✅C) GET
+D) COOKIE
+
+10 Which PHP feature stores user information on the server?
+A) Cookie
+✅B) Session
+C) Variable
+D) Array
+
+11 MySQL is a:
+A) Programming Language
+✅B) Database
+C) Web Browser
+D) Operating System
+
+12 Which SQL command is used to retrieve data?
+A) INSERT
+B) UPDATE
+✅C) SELECT
+D) DELETE
+
+1 PHP files have which extension?
+A) .html
+✅B) .php
+C) .xml
+D) .js
+
+2 Which tag is used to start PHP code?
+A) <php>
+✅B) <?php
+C) <script>
+D) <code>
+
+3 Which of the following is a PHP data type?
+A) Integer
+B) Float
+C) String
+✅D) All of these
+
+4 Which statement is used to display output?
+A) show
+B) write
+✅C) echo
+D) display
+
+5 Which function is used to count array elements?
+A) total()
+✅B) count()
+C) size()
+D) length()
+
+6 Which function converts a string to uppercase?
+✅A) strtoupper()
+B) upper()
+C) stringupper()
+D) toupper()
+
+7 Which function gives the current date and time?
+A) current()
+✅B) date()
+C) now()
+D) today()
+
+8 Which method is more secure for form submission?
+A) GET
+✅B) POST
+C) URL
+D) COOKIE
+
+9 Which function is used to open a file?
+✅A) fopen()
+B) fileopen()
+C) open()
+D) read()
+
+10 Cookies are stored on:
+A) Server
+B) Database
+✅C) Client Browser
+D) Cloud
+
+11 CRUD stands for:
+✅A) Create, Read, Update, Delete
+B) Copy, Read, Use, Delete
+C) Create, Run, Update, Drop
+D) Call, Read, Update, Delete
+
+12 Which SQL command inserts new records?
+A) UPDATE
+✅B) INSERT
+C) SELECT
+D) DROP
+
+1 PHP is mainly used for:
+A) System Programming
+✅B) Web Development
+C) Mobile Development
+D) Game Development
+
+2 Which software is NOT used for PHP setup?
+A) XAMPP
+B) WAMP
+C) MAMP
+✅D) MS Word
+
+3 Constants in PHP are created using:
+A) const
+B) define()
+✅C) Both A and B
+D) None
+
+4 Which statement is used when multiple conditions are checked?
+✅A) switch
+B) echo
+C) print
+D) include
+
+5 A function helps in:
+✅A) Reusing code
+B) Increasing errors
+C) Deleting files
+D) Stopping execution
+
+6 Which array can store arrays inside arrays?
+A) Indexed
+B) Associative
+✅C) Multidimensional
+D) Numeric
+
+7 Which symbol is used in regular expressions?
+✅A) /
+B) $
+C) &
+D) %
+
+8 Which form method hides data from the URL?
+A) GET
+✅B) POST
+C) COOKIE
+D) SESSION
+
+9 Which function closes an opened file?
+✅A) fclose()
+B) close()
+C) end()
+D) finish()
+
+10 Sessions are ended using:
+A) session_stop()
+✅B) session_destroy()
+C) destroy()
+D) stop()
+
+11 Which PHP extension is commonly used for MySQL connection?
+✅A) MySQLi
+B) JDBC
+C) ODBC
+D) ASP
+
+12 SQL Injection is a:
+✅A) Database Security Threat
+B) PHP Function
+C) HTML Tag
+D) Loop
+
+1 PHP is a:
+A) Client-side Language
+✅B) Server-side Language
+C) Markup Language
+D) Database
+
+2 Which command is used to display text in PHP?
+A) print()
+B) echo
+✅C) Both A and B
+D) write()
+
+3 Which of the following is NOT a PHP data type?
+A) String
+B) Integer
+✅C) Character
+D) Boolean
+
+4 Which loop is best suited when the number of iterations is known?
+✅A) for
+B) while
+C) do-while
+D) foreach
+
+5 Which function sorts an array in ascending order?
+✅A) sort()
+B) arrange()
+C) order()
+D) asort()
+
+6 Which function is used to replace text in a string?
+A) replace()
+✅B) str_replace()
+C) substitute()
+D) change()
+
+7 Which function returns the current Unix timestamp?
+✅A) time()
+B) date()
+C) now()
+D) timestamp()
+
+8 Which superglobal stores form data sent using POST?
+A) $_GET
+✅B) $_POST
+C) $_FORM
+D) $_DATA
+
+9 Which function is used to read a file line by line?
+✅A) fgets()
+B) fread()
+C) fopen()
+D) file()
+
+10 Cookies are created using:
+A) createcookie()
+B) cookie()
+✅C) setcookie()
+D) makecookie()
+
+11 Which SQL command updates existing data?
+A) INSERT
+✅B) UPDATE
+C) SELECT
+D) CREATE
+
+12 Which technique helps prevent SQL Injection?
+✅A) Prepared Statements
+B) Loops
+C) Arrays
+D) Cookies

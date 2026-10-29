@@ -1,0 +1,412 @@
+Q. 1 Objective type questions (Compulsory Question)
+1 An AI agent interacts with:
+A) Compiler 
+B) Database 
+C) Environment
+D) Processor
+
+2 Which search strategy explores nodes level by level?
+A) DFS
+B) BFS 
+C) Hill Climbing 
+D) Minimax
+
+3 Alpha-Beta pruning is used in:
+A) Data sorting
+B) Game playing 
+C) Database search
+D) Networking
+
+4 Bayesian Network is mainly used for:
+A) Deterministic reasoning
+B) Probabilistic reasoning 
+C) Sorting 
+D) Compilation
+
+5 Hidden Markov Model is commonly used in:
+A) Speech recognition
+B) Image editing 
+C) File compression 
+D) Networking
+
+6 Which of the following is an informed search strategy?
+A) BFS 
+B) DFS 
+C) A*
+D) Uniform Cost Search
+
+7 Minimax algorithm is commonly applied in:
+A) Database optimization
+B) Game playing 
+C) Sorting
+D) Data mining
+
+8 In adversarial search, the opponent is assumed to play:
+A) Randomly
+B) Optimally 
+C) Passively
+D) Sequentially
+
+9 If you need shortest path in an unweighted graph, which algorithm is suitable?
+A) DFS 
+B) BFS 
+C) Minimax
+D) Hill Climbing
+
+10 Which search strategy may get stuck at local optimum?
+A) BFS
+B) DFS 
+C) Hill Climbing 
+D) Minimax
+
+11 A* search combines:
+A) Path cost and heuristic value 
+B) Random search and DFS 
+C) BFS and DFS 
+D) Sorting and searching
+
+12 Which algorithm reduces unnecessary node expansion in game trees?
+A) BFS
+B) DFS 
+C) Alpha-Beta Pruning 
+D) Kalman Filter
+
+SECTION B
+Solve any four questions from Question 2 to Question 6.
+
+Q. 2 Solve the following
+A Explain the concept of Artificial Intelligence and its key features.
+B Describe the structure of an intelligent agent with a neat diagram.
+C Differentiate between Breadth First Search and Depth First Search.
+
+Q. 3 Solve the following
+A Define problem formulation in AI with a suitable example.
+B Compare uninformed search and heuristic search techniques.
+C Explain the problems faced in game playing and their solutions.
+
+Q. 4 Solve any two of the following
+A Elaborate the structure of intelligent agents.
+B Discuss AI techniques and search knowledge in detail.
+C Explain problem-solving agents and their working mechanism.
+
+Q. 5 Solve any two of the following
+A Describe Hill Climbing algorithm with limitations.
+B Explain Depth First Search with advantages and disadvantages.
+C Illustrate the concept of machine learning in AI.
+
+Q. 6 Solve any two of the following
+A What are Hidden Markov Models? Explain with applications.
+B Explain Bayesian Network with suitable example.
+C Discuss Alpha-Beta pruning with example.
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+Q. 1 Objective type questions (Compulsory Question)
+1 The main objective of Artificial Intelligence is to
+A) Store data
+B) Simulate human intelligence
+C) Manage networks
+D) Compress files
+
+2 Which component senses and acts upon the environment?
+A) Agent
+B) Database
+C) Compiler 
+D) Memory
+
+3 Which search algorithm uses a queue data structure?
+A) DFS
+B) BFS
+C) Hill Climbing 
+D) Minimax
+
+4 Which search strategy uses heuristic information?
+A) BFS
+B) DFS
+C) A* Search
+D) Uniform Cost Search
+
+5 Minimax algorithm is mainly used in
+A) Robotics
+B) Game playing
+C) Data mining 
+D) Sorting
+
+6 Alpha-Beta pruning improves:
+A) Sorting speed 
+B) Minimax efficiency
+C) Data storage 
+D) Compilation speed
+
+7 Bayesian Network represents:
+A) Logical reasoning
+B) Probabilistic dependencies
+C) Sorting techniques 
+D) File structures
+
+8 Which model is widely used for sequential data analysis?
+A) Hidden Markov Model 
+B) BFS
+C) DFS
+D) AO*
+
+9 Fuzzy logic is used to handle:
+A) Exact values only
+B) Uncertainty
+C) Compilation 
+D) Networking
+
+10 Which AI technique may fail due to local maxima?
+A) BFS 
+B) DFS
+C) Hill Climbing
+D) Minimax
+
+11 Genetic Algorithm is inspired by:
+A) Database systems
+B) Biological evolution
+C) Sorting methods
+D) Search trees
+
+12 Robotics localization helps a robot determine:
+A) File size
+B) Its position
+C) CPU speed
+D) Search depth
+
+SECTION B
+Solve any four questions from Question 2 to Question 6.
+Q. 2 Solve the following
+A Describe different types of environments in AI.
+B Differentiate between rational agents and intelligent agents.
+C Explain different types of agents in AI with architecture.
+
+Q. 3 Solve the following
+A Explain Breadth First Search with example.
+B Compare DFS and Hill Climbing algorithms.
+C Explain the role of heuristic functions in search.
+
+Q. 4 Solve any two of the following
+A Elaborate game playing in AI with suitable example.
+B Describe evaluation functions in adversarial search.
+C Explain problem reduction in AO* algorithm
+
+Q. 5 Solve any two of the following
+A Explain the structure of problem-solving agents.
+B Discuss problem formulation in Artificial Intelligence. 
+C Explain AI search techniques with examples
+
+Q. 6 Solve any two of the following
+A Explain Bayesian Network with suitable example.
+B Discuss Hidden Markov Models and their applications.
+C Illustrate ethics and risks of Artificial Intelligence.
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+Q. 1 Objective type questions (Compulsory Question)
+1 A rational agent selects actions that maximize
+A) Randomness
+B) Performance measure
+C) Memory usage 
+D) Search depth
+
+2 Which search strategy uses stack data structure?
+A) BFS 
+B) DFS
+C) A* 
+D) AO*
+
+3 AO* algorithm is mainly used for:
+A) Problem reduction 
+B) Sorting
+C) Database indexing 
+D) Compilation
+
+4 Which algorithm is best suited for heuristic search?
+A) BFS 
+B) DFS
+C) A* 
+D) Minimax
+
+5 Evaluation function is used in:
+A) Database normalization
+B) Game playing
+C) File compression 
+D) Networking
+
+6 Alpha-Beta pruning improves:
+A) Sorting speed 
+B) Minimax efficiency
+C) Data storage 
+D) Compilation speed
+
+7 Bayesian Network represents:
+A) Logical reasoning
+B) Probabilistic dependencies
+C) Sorting techniques 
+D) File structures
+
+8 Kalman Filter is used for:
+A) Sorting
+B) State estimation
+C) Data storage
+D) Search optimization
+
+9 Fuzzy logic is used to handle:
+A) Exact values only
+B) Uncertainty
+C) Compilation 
+D) Networking
+
+10 Genetic Algorithm is based on:
+A) Graph theory 
+B) Evolutionary process
+C) Dynamic programming 
+D) Database design
+
+11 Robot localization refers to:
+A) Data sorting
+B) Determining robot position
+C) Program compilation
+D) Memory management
+
+12 Hill climbing may fail because of:
+A) Optimality
+B) Local maxima
+C) Fast execution
+D) Completeness
+
+SECTION B
+Solve any four questions from Question 2 to Question 6.
+Q. 2 Solve the following
+A Explain agent and environment with suitable examples.
+B Describe types of intelligent agents
+C Define theminimax algorithm with diagram
+
+Q. 3 Solve the following
+A Discuss Alpha-Beta pruning with example.
+B Explain heuristic search techniques.
+C Illustrate the evaluation functions in game trees.
+
+Q. 4 Solve any two of the following
+A Elaborate problem-solving agents.
+B Explain AI search knowledge in detail.
+C Discuss problem formulation with example.
+
+Q. 5 Solve any two of the following
+A Analyze the architecture of neural networks and illustrate their role in computational problem solving.
+B Apply the principles of genetic algorithms to solve optimization problems with suitable process flow.
+C Examine the practical applications of fuzzy reasoning systems in handling uncertain real-world situations.
+
+Q. 6 Solve any two of the following
+A Illustrate the working of perception mechanisms in cognitive robotics with suitable examples.
+B Analyze localization and mapping techniques used for autonomous robotic navigation.
+C Evaluate ethical risks associated with intelligent robotic systems in real-world deployment.
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+Q. 1 Objective type questions (Compulsory Question)
+1 An intelligent agent interacts with:
+A) Compiler 
+B) Environment
+C) Database 
+D) Processor
+
+2 Level-by-level node exploration is performed by:
+A) DFS 
+B) BFS
+C) Hill Climbing
+D) Minimax
+
+3 Heuristic-guided optimal search uses:
+A) BFS 
+B) DFS
+C) A*
+D) Uniform Cost Search
+
+4 Reduction in unnecessary game tree expansion is achieved through:
+A) Kalman Filter
+B) Alpha-Beta Pruning
+C) Bayesian Network 
+D) AO*
+
+5 Probabilistic dependency modeling is represented by:
+A) Bayesian Network
+B) DFS
+C) Minimax
+D) Neural Network
+
+6 Sequential probabilistic state modeling applies:
+A) Hidden Markov Model
+B) BFS
+C) Hill Climbing
+D) AO*
+
+7 Search stagnation due to local optimum is associated with:
+A) BFS 
+B) DFS
+C) Hill Climbing
+D) Minimax
+
+8 Competitive decision making in AI games relies on:
+A) Minimax
+B) BFS
+C) A*
+D) Kalman Filter
+
+9 Evolution-inspired optimization belongs to:
+A) Genetic Algorithm 
+B) Bayesian Network
+C) DFS
+D) AO*
+
+10 Approximate reasoning under uncertainty depends on:
+A) Fuzzy Logic 
+B) BFS
+C) Sorting 
+D) DFS
+
+11 Robot position estimation is termed:
+A) Mapping
+B) Localization
+C) Search Reduction
+D) Compilation
+
+12 Brain-inspired computation corresponds to:
+A) Neural Networks
+B) BFS
+C) Kalman Filter
+D) Minimax
+
+SECTION B
+Solve any four questions from Question 2 to Question 6.
+
+Q. 2 Solve the following
+A Illustrate the process of problem formulation in Artificial Intelligence using a suitable example.
+B Differentiate between uninformed search and heuristic search techniques with suitable comparison parameters.
+C Assess major computational challenges encountered in adversarial game playing.
+
+Q. 3 Solve the following
+A Demonstrate the working of Breadth First Search using state-space traversal.
+B Apply the minimax framework to determine optimal strategic decisions in game playing.
+C Examine the significance of evaluation functions in game tree search.
+
+Q. 4 Solve any two of the following
+A Apply Hidden Markov Models for sequential reasoning with suitable illustration.
+B Analyze predictive estimation using Kalman filtering in dynamic systems.
+C Explain the structural framework of intelligent agents with neat representation.
+
+Q. 5 Solve any two of the following
+A Illustrate the working mechanism of problem-solving agents using suitable example.
+B Summarize the role of search knowledge in Artificial Intelligence problem solving.
+C Demonstrate perception mechanisms used in cognitive robotics with suitable examples.
+
+Q. 6 Solve any two of the following
+A Apply Hill Climbing algorithm to solve a search problem and identify its practical limitations.
+B Discuss Alpha-Beta pruning with example.
+C Illustrate Dynamic Bayesian Networks for temporal probabilistic reasoning.
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>==<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>==<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+

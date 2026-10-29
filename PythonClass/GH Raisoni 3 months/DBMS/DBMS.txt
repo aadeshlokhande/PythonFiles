@@ -1,0 +1,415 @@
+Q. 1 Objective type questions (Compulsory Question)
+1 Which of the following is NOT a feature of DBMS?
+A) Data redundancy control
+B) Data inconsistency increase
+C) Data security
+D) Data sharing
+
+2 Into which  data model uses tables, tuples and attributes?
+A) Hierarchical Model
+B) Network Model
+C) Relational Model
+D) Object-Oriented Model
+
+3 Metadata is:
+A) Raw data
+B) Data about data
+C) Duplicate data
+D) Encrypted data
+
+4 Relational algebra is a:
+A) Declarative language
+B) Procedural query language
+C) Data definition language
+D) Programming language
+
+5 Which operator combines tuples from two relations?
+A) Projection
+B) Selection
+C) Cartesian Product
+D) Rename
+
+6 The primary goal of normalization is to:
+A) Increase redundancy
+B) Improve query complexity
+C) Eliminate anomalies and redundancy
+D) Increase storage space
+
+7 A relation in 2NF may still contain:
+A) Multivalued attributes
+B) Partial dependencies
+C) Transitive dependencies
+D) No candidate key
+
+8 From  the following is NOT a level of data abstraction?
+A) Physical Level
+B) Logical Level
+C) Virtual Level
+D) View Level
+
+9 The schema that contains user-specific views is called:
+A) Internal schema
+B) Conceptual schema
+C) External schema
+D) Physical schema
+
+10 Which normal form is considered stricter than 3NF?
+A) 2NF
+B) 1NF
+C) BCNF
+D) 4NF
+
+11 A table must be in _____ before converting to 2NF.
+A) BCNF
+B) 4NF
+C) 1NF
+D) 3NF
+
+12 Which SQL set operator removes duplicate tuples automatically?
+A) UNION ALL
+B) INTERSECT ALL
+C) UNION
+D) PRODUCT
+
+SECTION B
+Solve any four questions from Question 2 to Question 6.
+
+Q. 2 Solve the following
+A Discuss the concept of DBMS and list its advantages over the traditional file system approach.
+B Differentiate primary key, foreign key and candidate key with suitable examples from relational databases.
+C State First Normal Form (1NF) from the concept of Normalisation.
+
+Q. 3 Solve the following
+A Illustrate the architecture of DBMS and explain the role of each component in database processing.
+B Demonstrate the use of GROUP BY and HAVING clauses with suitable SQL query examples.
+C Discuss Boyce-Codd Normal Form.
+
+Q. 4 Solve any two of the following
+A Compare various data models used in DBMS on the basis of structure, usage and advantages. 
+B Differentiate different types of joins with suitable examples.
+C Differentiate procedural and non-procedural query languages.
+
+Q. 5 Solve any two of the following
+A Interpret insertion, deletion and update anomalies with suitable examples from database tables.
+B Examine conceptual, representational and physical data models.
+C Interpret Second Normal Form (2NF) with example.
+
+Q. 6 Solve any two of the following
+A Diagram the ER model using suitable symbols and explain entities, attributes and relationships with examples.
+B Classify different types of database schemas. 
+C Illustrate SQL set operators with suitable examples. 
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>==<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>==<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>==<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+Q. 1 Objective type questions (Compulsory Question)
+1 In a 3-tier architecture, the middle layer is responsible for:
+A) Data storage
+B) User interaction
+C) Business logic processing
+D) Data redundancy
+
+2 In ER modeling, a weak entity depends on:
+A) Composite attribute
+B) Strong entity
+C) Derived attribute
+D) Multivalued attribute
+
+3 Which DBMS architecture is most suitable for web applications?
+A) 1-Tier
+B) 2-Tier
+C) 3-Tier
+D) Standalone
+
+4 From the following which  relational algebra operation is unary?
+A) Union
+B) Difference
+C) Cartesian Product
+D) Projection
+
+5 A candidate key is:
+A) Any attribute
+B) Minimal super key
+C) Composite attribute
+D) Foreign key
+
+6 A relation is in 1NF if:
+A) It contains transitive dependency
+B) Attributes contain atomic values
+C) Partial dependency exists
+D) Multivalued dependency exists
+
+7 Transitive dependency exists when:
+A) Primary key determines non-prime attribute directly
+B) Non-prime attribute depends on another non-prime attribute
+C) Composite key exists
+D) No functional dependency exists
+
+8 In ER diagrams, identifying relationship is mainly associated with:
+A) Strong entities
+B) Weak entities
+C) Composite attributes
+D) Derived attributes
+
+9 Super key differs from candidate key because super key:
+A) Cannot identify tuples uniquely
+B) Contains redundant attributes
+C) Cannot be primary key
+D) Must be foreign key
+
+10 A functional dependency A → B means:
+A) A and B are candidate keys
+B) B uniquely determines A
+C) A uniquely determines B
+D) A and B are foreign Keys
+
+11 3NF removes:
+A) Partial dependency
+B) Multivalued dependency
+C) Transitive dependency
+D) Join dependency
+
+12 Tuple Relational Calculus is based on:
+A) Procedural queries
+B) Non-procedural queries
+C) File systems
+D) Data independence
+
+SECTION B
+Solve any four questions from Question 2 to Question 6.
+
+Q. 2 Solve the following
+A Interpret the concept of data abstraction and explain its different levels in DBMS.
+B Identify integrity constraints in DBMS.
+C Discuss Fourth Normal Form (4NF).
+4
+Q. 3 Solve the following
+A Differentiate strong entity and weak entity set.
+B Interpret GROUP BY and HAVING clauses.
+C Contrast 2NF and 3NF in the concept of Normalisation.
+L4/CO3 4
+Q. 4 Solve any two of the following
+A Analyze the three-level architecture of DBMS with a neat diagram and suitable explanation.
+B Diagram ER model with symbols and examples.
+C Demonstrate selection, projection and Cartesian product operations using relational algebra examples.
+
+Q. 5 Solve any two of the following
+A Interpret First Normal Form (1NF) with example.
+B Explain different levels of schema in DBMS. 
+C Describe the concept of keys in DBMS.
+
+Q. 6 Solve any two of the following
+A Illustrate SQL set operators with suitable examples. 
+B Examine different types of joins in detail with suitable SQL query examples.
+C Describe the concepts of Triggers. 
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>==<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>==<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>==<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+Q. 1. Objective type questions (Compulsory Question)
+
+1. Which level of data abstraction describes the entire database structure?
+A) Physical Level
+B) View Level
+C) Logical Level. 
+D) External Level
+
+2. Following symbol is used for multivalued attribute in ER diagram?
+A) Single ellipse
+B) Double ellipse
+C) Diamond. 
+D) Rectangle
+
+3. Into which  of the following provides highest level of data abstraction?
+A) Internal schema
+B) Conceptual schema
+C) External schema
+D) Physical schema
+
+4. The result of projection operation can contain:
+A) Duplicate tuples
+B) Duplicate columns
+C) Duplicate rows removed automatically. 
+D) Only numeric values
+
+5. Which key is selected from candidate keys to uniquely identify tuples?
+A) Alternate Key
+B) Foreign Key
+C) Primary Key. 
+D) Composite Key
+
+6. Partial dependency occurs when a non-prime attribute depends on:
+A) Entire primary key
+B) Another non-prime attribute
+C) Part of composite key. 
+D) Foreign key
+
+7. Following which  normal form eliminates transitive dependency?
+A) 1NF
+B) 2NF
+C) 3NF. 
+D) 4NF
+
+8. Which of the following is NOT a level of data abstraction?
+A) Physical Level
+B) Logical Level
+C) Virtual Level. 
+D) View Level
+
+9. From  the following which operations requires union compatibility?
+A) Projection
+B) Difference
+C) Selection. 
+D) Rename
+
+10. Which of the following is NOT an advantage of normalization?
+A) Reduces redundancy
+B) Improves consistency
+C) Simplifies maintenance. 
+D) Increases duplicate data
+
+11. In 1NF, all attributes should contain:
+A) Multiple values
+B) Atomic values
+C) Null values. 
+D) Duplicate values
+
+12. Which schema describes database design at physical storage level?
+A) Conceptual Schema
+B) External Schema
+C) Logical Schema. 
+D) Physical Schema
+
+SECTION B
+Solve any four questions from Question 2 to Question 6.
+
+Q. 2. Solve the following
+A. Explain schema and instance in DBMS.
+B. Classify joins and list its types.
+C. Recall Second Normal Form (2NF).
+
+Q. 3. Solve the following
+A. Discuss the importance of ER design issues.
+B. Explain structure of relational database.
+C. Interpret the concept of non-loss decomposition with a suitable normalization example.
+
+Q. 4. Solve any two of the following
+A. Analyze ER model with examples.
+B. Examine conceptual, representational and physical data models.
+C. Contrast hierarchical model and network model.
+
+Q. 5. Solve any two of the following
+A. Interpret Third Normal Form (3NF) with a suitable example and explain removal of transitive dependency.
+B. Explain the concept of triggers.
+C. Compare physical and logical schema in DBMS.
+
+Q. 6. Solve any two of the following
+A. Classify the types of SQL set operators.
+B. Describe the concept of Keys in DBMS.
+C. Illustrate different database languages such as DDL, DML, DCL and TCL with suitable examples.
+
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>==<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>==<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>==<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=<:>=
+
+Q. 1 Objective type questions (Compulsory Question)
+1. Logical data independence refers to:
+A) Changes in physical storage without affecting conceptual schema
+B) Changes in conceptual schema without affecting external schema
+C) Changes in application programs only
+D) Changes in hardware configuration
+
+2. Which of the following is an example of logical data independence?
+A) Changing indexing technique
+B) Modifying file organization
+C) Adding a new attribute in conceptual schema
+D) Changing storage device
+
+3. A relationship set in ER model represents:
+A) Attributes of entities
+B) Collection of similar entities
+C) Association among entities
+D) Primary keys only
+
+4. Selection operation in relational algebra is equivalent to:
+A) Choosing columns
+B) Choosing rows
+C) Joining tables
+D) Renaming attributes
+
+5. A relation can have:
+A) Only one candidate key
+B) Multiple candidate keys
+C) No primary key
+D) Only composite keys
+
+6. Which normal form removes partial dependency?
+A) 1NF
+B) 2NF
+C) 3NF
+D) BCNF
+
+7. BCNF is violated if:
+A) Relation contains atomic values
+B) Determinant is not a super key
+C) Relation has candidate key
+D) No foreign key exists
+
+8. Which type of DBMS is best suited for complex object storage like multimedia?
+A) Relational DBMS
+B) Hierarchical DBMS
+C) Object-Oriented DBMS
+D) Network DBMS
+
+9. From  relational algebra operator changes the attribute name of a relation?
+A) σ
+B) π
+C) ρ
+D) ×
+
+10. In 3NF, for every functional dependency X → Y:
+A) X must be foreign key
+B) Y must be multivalued
+C) X must be super key or Y should be prime attribute
+D) Y must be non-prime attribute
+
+11. 1NF removes:
+A) Transitive dependency
+B) Partial dependency
+C) Multivalued attributes
+D) Functional dependency
+
+12. A relation can have:
+A) Only one candidate key
+B) Multiple candidate keys
+C) No primary key
+D) Only composite keys
+
+SECTION B
+Solve any four questions from Question 2 to Question 6.
+Q. 2 Solve the following
+A. Name different types of database users in DBMS
+B. Recall aggregate functions in SQL.
+C. State BCNF from the concept of Normalisation.
+
+Q. 3 Solve the following
+A. Interpret GROUP BY and HAVING clauses.
+B. Discuss different set operations in SQL.
+C. Explain partial dependency with example.
+
+Q. 4 Solve any two of the following
+A. Examine different database languages with examples.
+B. Differentiate data abstraction and data independence in detail with suitable examples.
+C. Classify all types of keys in DBMS with examples.
+
+Q. 5 Solve any two of the following
+A. Interpret Third Normal Form (3NF) with a suitable example and explain removal of transitive dependency.
+B. Describe the concepts of Triggers.
+C. Illustrate SQL set operators with suitable examples.
+
+Q. 6 Solve any two of the following
+A.  Explain procedural and non-procedural query languages..
+B. Compare physical and logical schema.
+C. Examine conceptual, representational and physical data models.

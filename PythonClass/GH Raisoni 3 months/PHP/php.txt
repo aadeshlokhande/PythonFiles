@@ -1,0 +1,63 @@
+Discuss the features and benefits of PHP as a web development language.
+Define variables, constants, and data types in PHP with suitable examples.
+Identify different types of arrays available in PHP and give one example of each.
+Explain the use of control structures (if-else and switch) in PHP.
+Describe built-in string functions used in PHP.
+Summarize the role of PHP in dynamic web application development.
+Compare indexed arrays and associative arrays in PHP.
+Implement a PHP program to find the factorial of a number using a function.
+Solve a PHP program to sort an array in ascending order.
+Illustrate the process of form handling in PHP using GET and POST methods.
+Apply CRUD operations using PHP and MySQL with suitable examples.
+Examine session handling in PHP and its importance in web applications.
+Evaluate the importance of database security in PHP applications.
+Differentiate between for loop and while loop with examples.
+Analyze file upload functionality and associated security concerns in PHP.
+
+Discuss the installation and setup of XAMPP/WAMP server for PHP development.
+Define functions in PHP and state their advantages.
+Identify common array manipulation functions in PHP
+Explain how PHP can be embedded within HTML pages.
+Describe different date and time functions available in PHP.
+Summarize the significance of database connectivity in web applications.
+Compare GET and POST methods used in form submission.
+Implement a PHP program to calculate the sum of array elements using a function.
+Solve a PHP program to count vowels in a given string.
+Illustrate the process of creating and reading cookies in PHP.
+Apply SQL CRUD operations through PHP-MySQL connectivity.
+Examine form validation techniques in PHP.
+Evaluate the role of transactions in database management systems.
+Differentiate between variables and constants in PHP.
+Analyze session management and cookie management in PHP applications.
+
+Discuss the applications of PHP in modern web development.
+Define control structures and explain their purpose.
+Identify various string manipulation functions in PHP.
+Explain different looping constructs available in PHP.
+Describe regular expressions and their use in PHP.
+Summarize the importance of SQL in database-driven applications.
+Compare sessions and cookies in PHP.
+Implement a PHP program to display the current date and time.
+Solve a PHP program to reverse a string using built-in functions.
+Illustrate file reading and file writing operations in PHP.
+Apply database connectivity using MySQLi or PDO in PHP.
+Examine security measures such as input filtering and output escaping.
+Evaluate the advantages of using joins in relational databases.
+Differentiate between switch statement and if-else ladder.
+Analyze the causes and prevention of SQL Injection attacks.
+
+Discuss the architecture and working of PHP.
+Define arrays and explain their types in PHP.
+Identify commonly used file handling functions in PHP.
+Explain user-defined functions and parameter passing in PHP.
+Describe array sorting techniques and related functions.
+Summarize the importance of security in PHP web applications.
+Compare MySQLi and PDO database connectivity methods.
+Implement a PHP program to search an element in an array.
+Solve a PHP program to validate an email address using regular expressions.
+Illustrate file upload handling in PHP with suitable code.
+Apply prepared statements in PHP to prevent SQL Injection.
+Examine cookie security and best practices for web applications.
+Evaluate the importance of indexes in database performance optimization.
+Differentiate between user-defined functions and built-in functions in PHP.
+Analyze the complete lifecycle of a user session in PHP.
